@@ -1,0 +1,331 @@
+,CLIP,i,ons_item_name,period
+0,100.0,0,"apple cider, bottle, 4.5%-5.5% abv",201601.0
+1,100.61035936923706,1,"apple cider, bottle, 4.5%-5.5% abv",201602.0
+2,98.86682779254062,2,"apple cider, bottle, 4.5%-5.5% abv",201603.0
+3,98.21055365484041,3,"apple cider, bottle, 4.5%-5.5% abv",201604.0
+4,97.93904405774342,4,"apple cider, bottle, 4.5%-5.5% abv",201605.0
+5,95.9075129364882,5,"apple cider, bottle, 4.5%-5.5% abv",201606.0
+6,96.83432265003138,6,"apple cider, bottle, 4.5%-5.5% abv",201607.0
+7,96.51998898190524,7,"apple cider, bottle, 4.5%-5.5% abv",201608.0
+8,95.45601727695768,8,"apple cider, bottle, 4.5%-5.5% abv",201610.0
+9,95.26967594982247,9,"apple cider, bottle, 4.5%-5.5% abv",201611.0
+10,100.0,0,"apples, dessert, per kg",201601.0
+11,102.01239390931364,1,"apples, dessert, per kg",201602.0
+12,106.10258419669574,2,"apples, dessert, per kg",201603.0
+13,102.0190810872194,3,"apples, dessert, per kg",201604.0
+14,84.72224505414621,4,"apples, dessert, per kg",201605.0
+15,96.15084524572683,5,"apples, dessert, per kg",201606.0
+16,95.77417442383944,6,"apples, dessert, per kg",201607.0
+17,95.3158023043325,7,"apples, dessert, per kg",201608.0
+18,111.6758163768743,8,"apples, dessert, per kg",201610.0
+19,109.79404521230806,9,"apples, dessert, per kg",201611.0
+20,100.0,0,"bananas, per kg",201601.0
+21,100.0,1,"bananas, per kg",201602.0
+22,100.0,2,"bananas, per kg",201603.0
+23,99.74214263202992,3,"bananas, per kg",201604.0
+24,99.6864771700565,4,"bananas, per kg",201605.0
+25,100.0,5,"bananas, per kg",201606.0
+26,100.0,6,"bananas, per kg",201607.0
+27,100.0,7,"bananas, per kg",201608.0
+28,100.0,8,"bananas, per kg",201610.0
+29,100.0,9,"bananas, per kg",201611.0
+30,100.0,0,"bitter, 4 cans, 3.4%-7.5% abv",201601.0
+31,100.41697545092403,1,"bitter, 4 cans, 3.4%-7.5% abv",201602.0
+32,81.12149513013442,2,"bitter, 4 cans, 3.4%-7.5% abv",201603.0
+33,99.63498591184864,3,"bitter, 4 cans, 3.4%-7.5% abv",201604.0
+34,85.71194298150179,4,"bitter, 4 cans, 3.4%-7.5% abv",201605.0
+35,86.49507698099092,5,"bitter, 4 cans, 3.4%-7.5% abv",201606.0
+36,99.71612770372913,6,"bitter, 4 cans, 3.4%-7.5% abv",201607.0
+37,99.4294815529388,7,"bitter, 4 cans, 3.4%-7.5% abv",201608.0
+38,112.19309289716955,8,"bitter, 4 cans, 3.4%-7.5% abv",201610.0
+39,107.45980985980725,9,"bitter, 4 cans, 3.4%-7.5% abv",201611.0
+40,100.0,0,"brandy, bottle",201601.0
+41,91.67728821244563,1,"brandy, bottle",201602.0
+42,84.66180359867573,2,"brandy, bottle",201603.0
+43,101.10310020629336,3,"brandy, bottle",201604.0
+44,101.44780479943103,4,"brandy, bottle",201605.0
+45,98.80182837183003,5,"brandy, bottle",201606.0
+46,99.25300947803984,6,"brandy, bottle",201607.0
+47,97.2487559331032,7,"brandy, bottle",201608.0
+48,100.17165892713602,8,"brandy, bottle",201610.0
+49,99.14001891944197,9,"brandy, bottle",201611.0
+50,100.0,0,"breakfast cereal 1, sugar/chocolate coated",201601.0
+51,106.33875109229001,1,"breakfast cereal 1, sugar/chocolate coated",201602.0
+52,103.94558209188499,2,"breakfast cereal 1, sugar/chocolate coated",201603.0
+53,100.30375038841552,3,"breakfast cereal 1, sugar/chocolate coated",201604.0
+54,100.83041196508435,4,"breakfast cereal 1, sugar/chocolate coated",201605.0
+55,98.96161357421246,5,"breakfast cereal 1, sugar/chocolate coated",201606.0
+56,96.84797474987029,6,"breakfast cereal 1, sugar/chocolate coated",201607.0
+57,98.06117054740756,7,"breakfast cereal 1, sugar/chocolate coated",201608.0
+58,103.63061731269522,8,"breakfast cereal 1, sugar/chocolate coated",201610.0
+59,104.05447291801515,9,"breakfast cereal 1, sugar/chocolate coated",201611.0
+60,100.0,0,"breakfast cereal 2, not sugar/chocolate coated",201601.0
+61,105.93495426669797,1,"breakfast cereal 2, not sugar/chocolate coated",201602.0
+62,110.37186307399205,2,"breakfast cereal 2, not sugar/chocolate coated",201603.0
+63,106.97139743104884,3,"breakfast cereal 2, not sugar/chocolate coated",201604.0
+64,109.76687969933077,4,"breakfast cereal 2, not sugar/chocolate coated",201605.0
+65,105.35390945512174,5,"breakfast cereal 2, not sugar/chocolate coated",201606.0
+66,102.91496707000809,6,"breakfast cereal 2, not sugar/chocolate coated",201607.0
+67,103.74059949783738,7,"breakfast cereal 2, not sugar/chocolate coated",201608.0
+68,88.64570661125259,8,"breakfast cereal 2, not sugar/chocolate coated",201610.0
+69,93.09957422087403,9,"breakfast cereal 2, not sugar/chocolate coated",201611.0
+70,100.0,0,"cheese cheddar, home produced, per kg",201601.0
+71,95.68613071405825,1,"cheese cheddar, home produced, per kg",201602.0
+72,96.64544240806386,2,"cheese cheddar, home produced, per kg",201603.0
+73,102.1962279501325,3,"cheese cheddar, home produced, per kg",201604.0
+74,95.4803333811459,4,"cheese cheddar, home produced, per kg",201605.0
+75,94.95802600647762,5,"cheese cheddar, home produced, per kg",201606.0
+76,98.60759613118744,6,"cheese cheddar, home produced, per kg",201607.0
+77,96.96904147617806,7,"cheese cheddar, home produced, per kg",201608.0
+78,90.25364836308715,8,"cheese cheddar, home produced, per kg",201610.0
+79,91.66813696654755,9,"cheese cheddar, home produced, per kg",201611.0
+80,100.0,0,"cola flavoured drink, bottle",201601.0
+81,102.99136383668288,1,"cola flavoured drink, bottle",201602.0
+82,99.57368472020201,2,"cola flavoured drink, bottle",201603.0
+83,94.96447380726777,3,"cola flavoured drink, bottle",201604.0
+84,98.42684998261946,4,"cola flavoured drink, bottle",201605.0
+85,89.29935301020193,5,"cola flavoured drink, bottle",201606.0
+86,93.16760030440535,6,"cola flavoured drink, bottle",201607.0
+87,91.56972868655664,7,"cola flavoured drink, bottle",201608.0
+88,90.75130145283819,8,"cola flavoured drink, bottle",201610.0
+89,89.52518444417422,9,"cola flavoured drink, bottle",201611.0
+90,100.0,0,"dry spaghetti or pasta, 500g",201601.0
+91,106.98281209850384,1,"dry spaghetti or pasta, 500g",201602.0
+92,103.47338564395139,2,"dry spaghetti or pasta, 500g",201603.0
+93,101.40249601683439,3,"dry spaghetti or pasta, 500g",201604.0
+94,107.87591613684997,4,"dry spaghetti or pasta, 500g",201605.0
+95,109.8533791151637,5,"dry spaghetti or pasta, 500g",201606.0
+96,109.93168367119299,6,"dry spaghetti or pasta, 500g",201607.0
+97,107.72439035105845,7,"dry spaghetti or pasta, 500g",201608.0
+98,103.54411179399898,8,"dry spaghetti or pasta, 500g",201610.0
+99,101.29185268424847,9,"dry spaghetti or pasta, 500g",201611.0
+100,100.0,0,"fresh veg, onions, per kg",201601.0
+101,99.7363401175604,1,"fresh veg, onions, per kg",201602.0
+102,97.72905901938371,2,"fresh veg, onions, per kg",201603.0
+103,93.79258470455252,3,"fresh veg, onions, per kg",201604.0
+104,94.02404831573674,4,"fresh veg, onions, per kg",201605.0
+105,95.20984800198582,5,"fresh veg, onions, per kg",201606.0
+106,98.49540461685301,6,"fresh veg, onions, per kg",201607.0
+107,98.34619583314299,7,"fresh veg, onions, per kg",201608.0
+108,94.207860172354,8,"fresh veg, onions, per kg",201610.0
+109,94.207860172354,9,"fresh veg, onions, per kg",201611.0
+110,100.0,0,"fresh veg, tomatoes, per kg",201601.0
+111,100.85950166520323,1,"fresh veg, tomatoes, per kg",201602.0
+112,93.1758625771145,2,"fresh veg, tomatoes, per kg",201603.0
+113,97.36243221994224,3,"fresh veg, tomatoes, per kg",201604.0
+114,94.27022171155842,4,"fresh veg, tomatoes, per kg",201605.0
+115,97.32699856001234,5,"fresh veg, tomatoes, per kg",201606.0
+116,98.8152668903523,6,"fresh veg, tomatoes, per kg",201607.0
+117,97.17478267416763,7,"fresh veg, tomatoes, per kg",201608.0
+118,101.22608333139202,8,"fresh veg, tomatoes, per kg",201610.0
+119,100.45683005356312,9,"fresh veg, tomatoes, per kg",201611.0
+120,100.0,0,"fresh/chilled orange juice, eg. tropicana",201601.0
+121,99.98332153059435,1,"fresh/chilled orange juice, eg. tropicana",201602.0
+122,97.15925011297865,2,"fresh/chilled orange juice, eg. tropicana",201603.0
+123,94.34505715551174,3,"fresh/chilled orange juice, eg. tropicana",201604.0
+124,94.22843120305296,4,"fresh/chilled orange juice, eg. tropicana",201605.0
+125,94.42760071180655,5,"fresh/chilled orange juice, eg. tropicana",201606.0
+126,92.25868015717697,6,"fresh/chilled orange juice, eg. tropicana",201607.0
+127,93.440387542378,7,"fresh/chilled orange juice, eg. tropicana",201608.0
+128,91.85329422434401,8,"fresh/chilled orange juice, eg. tropicana",201610.0
+129,94.35872080291614,9,"fresh/chilled orange juice, eg. tropicana",201611.0
+130,100.0,0,"fruit juice, not orange, eg. apple",201601.0
+131,99.24720802138548,1,"fruit juice, not orange, eg. apple",201602.0
+132,98.77056466574969,2,"fruit juice, not orange, eg. apple",201603.0
+133,100.0,3,"fruit juice, not orange, eg. apple",201604.0
+134,92.17217690047798,4,"fruit juice, not orange, eg. apple",201605.0
+135,97.9218701413689,5,"fruit juice, not orange, eg. apple",201606.0
+136,93.12152441122346,6,"fruit juice, not orange, eg. apple",201607.0
+137,92.17217690047798,7,"fruit juice, not orange, eg. apple",201608.0
+138,99.75080196530645,8,"fruit juice, not orange, eg. apple",201610.0
+139,98.2830733154776,9,"fruit juice, not orange, eg. apple",201611.0
+140,100.0,0,"grapes, per kg",201601.0
+141,96.59562668955616,1,"grapes, per kg",201602.0
+142,95.61564590048678,2,"grapes, per kg",201603.0
+143,104.04032832212373,3,"grapes, per kg",201604.0
+144,104.58135486545234,4,"grapes, per kg",201605.0
+145,107.1733329487523,5,"grapes, per kg",201606.0
+146,98.45351204840392,6,"grapes, per kg",201607.0
+147,94.1049684568975,7,"grapes, per kg",201608.0
+148,94.7007992307628,8,"grapes, per kg",201610.0
+149,94.7007992307628,9,"grapes, per kg",201611.0
+150,100.0,0,"lager, 4 bottles, 4.3%-7.5% abv",201601.0
+151,98.82039668542917,1,"lager, 4 bottles, 4.3%-7.5% abv",201602.0
+152,99.39580557880919,2,"lager, 4 bottles, 4.3%-7.5% abv",201603.0
+153,100.6320531047288,3,"lager, 4 bottles, 4.3%-7.5% abv",201604.0
+154,100.73077664688088,4,"lager, 4 bottles, 4.3%-7.5% abv",201605.0
+155,95.588122531611,5,"lager, 4 bottles, 4.3%-7.5% abv",201606.0
+156,96.51295204088953,6,"lager, 4 bottles, 4.3%-7.5% abv",201607.0
+157,98.25356867102283,7,"lager, 4 bottles, 4.3%-7.5% abv",201608.0
+158,91.69356627292971,8,"lager, 4 bottles, 4.3%-7.5% abv",201610.0
+159,92.23486342093146,9,"lager, 4 bottles, 4.3%-7.5% abv",201611.0
+160,100.0,0,plain biscuits (eg. digestive),201601.0
+161,99.09248442003667,1,plain biscuits (eg. digestive),201602.0
+162,98.8396197765998,2,plain biscuits (eg. digestive),201603.0
+163,97.3594552484821,3,plain biscuits (eg. digestive),201604.0
+164,95.81095744871783,4,plain biscuits (eg. digestive),201605.0
+165,98.03092845078555,5,plain biscuits (eg. digestive),201606.0
+166,98.03092845078555,6,plain biscuits (eg. digestive),201607.0
+167,98.03092845078555,7,plain biscuits (eg. digestive),201608.0
+168,94.69293502514567,8,plain biscuits (eg. digestive),201610.0
+169,96.87470776683776,9,plain biscuits (eg. digestive),201611.0
+170,100.0,0,"potatoes, new",201601.0
+171,102.7419023750189,1,"potatoes, new",201602.0
+172,97.16178441371534,2,"potatoes, new",201603.0
+173,87.73859630733334,3,"potatoes, new",201604.0
+174,100.0,4,"potatoes, new",201605.0
+175,100.0,5,"potatoes, new",201606.0
+176,100.0,6,"potatoes, new",201607.0
+177,100.0,7,"potatoes, new",201608.0
+178,100.0,8,"potatoes, new",201610.0
+179,100.0,9,"potatoes, new",201611.0
+180,100.0,0,"potatoes, old, white",201601.0
+181,100.48840945408783,1,"potatoes, old, white",201602.0
+182,98.31529858639922,2,"potatoes, old, white",201603.0
+183,97.99458629267556,3,"potatoes, old, white",201604.0
+184,97.02770054073997,4,"potatoes, old, white",201605.0
+185,95.54427922043668,5,"potatoes, old, white",201606.0
+186,95.54427922043668,6,"potatoes, old, white",201607.0
+187,95.54427922043668,7,"potatoes, old, white",201608.0
+188,94.88900564321591,8,"potatoes, old, white",201610.0
+189,94.88900564321591,9,"potatoes, old, white",201611.0
+190,100.0,0,"red wine, european, bottle",201601.0
+191,99.9897234804303,1,"red wine, european, bottle",201602.0
+192,99.81549998985048,2,"red wine, european, bottle",201603.0
+193,99.8913034709371,3,"red wine, european, bottle",201604.0
+194,99.81494279752121,4,"red wine, european, bottle",201605.0
+195,103.14824868113533,5,"red wine, european, bottle",201606.0
+196,102.04136084988203,6,"red wine, european, bottle",201607.0
+197,103.70722568503687,7,"red wine, european, bottle",201608.0
+198,102.84847170092131,8,"red wine, european, bottle",201610.0
+199,102.99570644623745,9,"red wine, european, bottle",201611.0
+200,100.0,0,"rum, white, bottle",201601.0
+201,97.77448347703697,1,"rum, white, bottle",201602.0
+202,97.91731983114114,2,"rum, white, bottle",201603.0
+203,96.30678575510096,3,"rum, white, bottle",201604.0
+204,93.66368720333156,4,"rum, white, bottle",201605.0
+205,98.20006487002757,5,"rum, white, bottle",201606.0
+206,99.08456316912341,6,"rum, white, bottle",201607.0
+207,95.61402703505748,7,"rum, white, bottle",201608.0
+208,94.99198015440017,8,"rum, white, bottle",201610.0
+209,95.60243458712287,9,"rum, white, bottle",201611.0
+210,100.0,0,"shop milk, whole milk",201601.0
+211,100.62684940658737,1,"shop milk, whole milk",201602.0
+212,98.12327807798653,2,"shop milk, whole milk",201603.0
+213,100.94838220363545,3,"shop milk, whole milk",201604.0
+214,98.61538610747061,4,"shop milk, whole milk",201605.0
+215,97.08732828383319,5,"shop milk, whole milk",201606.0
+216,99.33714085557031,6,"shop milk, whole milk",201607.0
+217,99.27625003139575,7,"shop milk, whole milk",201608.0
+218,99.06378840547703,8,"shop milk, whole milk",201610.0
+219,98.2957252126081,9,"shop milk, whole milk",201611.0
+220,100.0,0,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201601.0
+221,100.0,1,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201602.0
+222,100.0,2,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201603.0
+223,100.0,3,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201604.0
+224,100.0,4,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201605.0
+225,100.0,5,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201606.0
+226,100.0,6,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201607.0
+227,100.0,7,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201608.0
+228,100.0,8,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201610.0
+229,100.0,9,"shop milk,semi-skimmed, per 2 pints/1.136 litre",201611.0
+230,100.0,0,"spreadable butter, 500g, 40-70% butter content",201601.0
+231,99.09877157262693,1,"spreadable butter, 500g, 40-70% butter content",201602.0
+232,97.01670718829392,2,"spreadable butter, 500g, 40-70% butter content",201603.0
+233,95.28718083978323,3,"spreadable butter, 500g, 40-70% butter content",201604.0
+234,103.95593457967757,4,"spreadable butter, 500g, 40-70% butter content",201605.0
+235,101.15617997804071,5,"spreadable butter, 500g, 40-70% butter content",201606.0
+236,98.64947452195406,6,"spreadable butter, 500g, 40-70% butter content",201607.0
+237,100.80949302525117,7,"spreadable butter, 500g, 40-70% butter content",201608.0
+238,103.13030993889984,8,"spreadable butter, 500g, 40-70% butter content",201610.0
+239,101.67715123625254,9,"spreadable butter, 500g, 40-70% butter content",201611.0
+240,100.0,0,"strawberries, per kg or per punnet",201601.0
+241,95.45778423858529,1,"strawberries, per kg or per punnet",201602.0
+242,98.78866656650483,2,"strawberries, per kg or per punnet",201603.0
+243,92.82126102093855,3,"strawberries, per kg or per punnet",201604.0
+244,83.58837386805783,4,"strawberries, per kg or per punnet",201605.0
+245,90.9090909090909,5,"strawberries, per kg or per punnet",201606.0
+246,90.9090909090909,6,"strawberries, per kg or per punnet",201607.0
+247,90.9090909090909,7,"strawberries, per kg or per punnet",201608.0
+248,105.60762541564618,8,"strawberries, per kg or per punnet",201610.0
+249,108.7635584886083,9,"strawberries, per kg or per punnet",201611.0
+250,100.0,0,"tea bags, per packet of 80, 250g",201601.0
+251,104.72791187301466,1,"tea bags, per packet of 80, 250g",201602.0
+252,116.84229003319673,2,"tea bags, per packet of 80, 250g",201603.0
+253,101.2921619468343,3,"tea bags, per packet of 80, 250g",201604.0
+254,118.84797675842171,4,"tea bags, per packet of 80, 250g",201605.0
+255,102.87799940526571,5,"tea bags, per packet of 80, 250g",201606.0
+256,103.43350964018563,6,"tea bags, per packet of 80, 250g",201607.0
+257,102.51723409568851,7,"tea bags, per packet of 80, 250g",201608.0
+258,121.04620367811496,8,"tea bags, per packet of 80, 250g",201610.0
+259,115.31910583708242,9,"tea bags, per packet of 80, 250g",201611.0
+260,100.0,0,"vodka, bottle",201601.0
+261,98.80016857211285,1,"vodka, bottle",201602.0
+262,98.87808511191454,2,"vodka, bottle",201603.0
+263,95.25752177069107,3,"vodka, bottle",201604.0
+264,97.1712066545995,4,"vodka, bottle",201605.0
+265,96.82224955962717,5,"vodka, bottle",201606.0
+266,97.80570596104486,6,"vodka, bottle",201607.0
+267,94.99375036743571,7,"vodka, bottle",201608.0
+268,96.79211476713712,8,"vodka, bottle",201610.0
+269,95.93202295383902,9,"vodka, bottle",201611.0
+270,100.0,0,"whisky, bottle",201601.0
+271,98.44715036142945,1,"whisky, bottle",201602.0
+272,100.76406987933917,2,"whisky, bottle",201603.0
+273,99.50256804372214,3,"whisky, bottle",201604.0
+274,112.68979421083654,4,"whisky, bottle",201605.0
+275,108.8892581202809,5,"whisky, bottle",201606.0
+276,115.475046972978,6,"whisky, bottle",201607.0
+277,113.80681462995985,7,"whisky, bottle",201608.0
+278,110.94711576118621,8,"whisky, bottle",201610.0
+279,110.83263869210782,9,"whisky, bottle",201611.0
+280,100.0,0,"white sliced loaf, branded",201601.0
+281,97.21335634722665,1,"white sliced loaf, branded",201602.0
+282,99.31682894458858,2,"white sliced loaf, branded",201603.0
+283,100.79504811317035,3,"white sliced loaf, branded",201604.0
+284,98.47023360313686,4,"white sliced loaf, branded",201605.0
+285,96.83212241711294,5,"white sliced loaf, branded",201606.0
+286,96.7201817485085,6,"white sliced loaf, branded",201607.0
+287,96.7201817485085,7,"white sliced loaf, branded",201608.0
+288,94.51371158126342,8,"white sliced loaf, branded",201610.0
+289,95.96824268694128,9,"white sliced loaf, branded",201611.0
+290,100.0,0,"white wine, european, bottle",201601.0
+291,98.60498518443595,1,"white wine, european, bottle",201602.0
+292,98.22051912886779,2,"white wine, european, bottle",201603.0
+293,96.51653885234383,3,"white wine, european, bottle",201604.0
+294,96.46329175259845,4,"white wine, european, bottle",201605.0
+295,97.68559522762065,5,"white wine, european, bottle",201606.0
+296,97.46485439840129,6,"white wine, european, bottle",201607.0
+297,97.90394996795891,7,"white wine, european, bottle",201608.0
+298,98.99520009798601,8,"white wine, european, bottle",201610.0
+299,99.19385193726549,9,"white wine, european, bottle",201611.0
+300,100.0,0,"wholemeal sliced loaf, branded",201601.0
+301,99.77002322421376,1,"wholemeal sliced loaf, branded",201602.0
+302,98.48319950308215,2,"wholemeal sliced loaf, branded",201603.0
+303,104.91484931719665,3,"wholemeal sliced loaf, branded",201604.0
+304,106.17345799603237,4,"wholemeal sliced loaf, branded",201605.0
+305,97.10397718564508,5,"wholemeal sliced loaf, branded",201606.0
+306,97.99643359294899,6,"wholemeal sliced loaf, branded",201607.0
+307,97.99643359294899,7,"wholemeal sliced loaf, branded",201608.0
+308,95.52326331841105,8,"wholemeal sliced loaf, branded",201610.0
+309,94.62741908878598,9,"wholemeal sliced loaf, branded",201611.0
+310,100.0,0,"yoghurt, small individual",201601.0
+311,102.56248618356469,1,"yoghurt, small individual",201602.0
+312,100.29162954484173,2,"yoghurt, small individual",201603.0
+313,96.67393051903646,3,"yoghurt, small individual",201604.0
+314,89.33187505590816,4,"yoghurt, small individual",201605.0
+315,88.07317712929567,5,"yoghurt, small individual",201606.0
+316,88.24969472107527,6,"yoghurt, small individual",201607.0
+317,87.03830245913463,7,"yoghurt, small individual",201608.0
+318,91.79228206958409,8,"yoghurt, small individual",201610.0
+319,92.2932258816983,9,"yoghurt, small individual",201611.0
+320,100.0,0,yoghurt/fromage frais,201601.0
+321,99.88166925340202,1,yoghurt/fromage frais,201602.0
+322,106.8765052837537,2,yoghurt/fromage frais,201603.0
+323,104.68093706316314,3,yoghurt/fromage frais,201604.0
+324,99.94205107955942,4,yoghurt/fromage frais,201605.0
+325,94.71873400122271,5,yoghurt/fromage frais,201606.0
+326,95.20961018199026,6,yoghurt/fromage frais,201607.0
+327,99.33053524388419,7,yoghurt/fromage frais,201608.0
+328,101.17739955846217,8,yoghurt/fromage frais,201610.0
+329,100.94612226938754,9,yoghurt/fromage frais,201611.0

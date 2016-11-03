@@ -1,0 +1,913 @@
+,Unnamed: 0,category,index,value,date
+0,0,020000Alcoholic Beverages,Index0,100.0,09/06/14
+1,1,020000Alcoholic Beverages,Index0,99.8022478071,16/06/14
+2,2,020000Alcoholic Beverages,Index0,99.7024112177,23/06/14
+3,3,020000Alcoholic Beverages,Index0,99.7133423042,30/06/14
+4,4,020000Alcoholic Beverages,Index0,99.6436045607,07/07/14
+5,5,020000Alcoholic Beverages,Index0,99.8318541968,14/07/14
+6,6,020000Alcoholic Beverages,Index0,101.20484459,21/07/14
+7,7,020000Alcoholic Beverages,Index0,101.634821599,28/07/14
+8,8,020000Alcoholic Beverages,Index0,100.891050096,04/08/14
+9,9,020000Alcoholic Beverages,Index0,100.889526786,11/08/14
+10,10,020000Alcoholic Beverages,Index0,100.177880496,18/08/14
+11,11,020000Alcoholic Beverages,Index0,100.088265082,25/08/14
+12,12,020000Alcoholic Beverages,Index0,100.046454849,01/09/14
+13,13,020000Alcoholic Beverages,Index0,99.1362289736,08/09/14
+14,14,020000Alcoholic Beverages,Index0,98.9554934452,15/09/14
+15,15,020000Alcoholic Beverages,Index0,100.025976917,22/09/14
+16,16,020000Alcoholic Beverages,Index0,99.9468034205,29/09/14
+17,17,020000Alcoholic Beverages,Index0,99.9263627851,06/10/14
+18,18,020000Alcoholic Beverages,Index0,100.216252545,13/10/14
+19,19,020000Alcoholic Beverages,Index0,99.7696674456,20/10/14
+20,20,020000Alcoholic Beverages,Index0,99.1061178157,27/10/14
+21,21,020000Alcoholic Beverages,Index0,98.5353953802,03/11/14
+22,22,020000Alcoholic Beverages,Index0,98.1755206631,10/11/14
+23,23,020000Alcoholic Beverages,Index0,98.0746835493,17/11/14
+24,24,020000Alcoholic Beverages,Index0,98.3829250868,24/11/14
+25,25,020000Alcoholic Beverages,Index0,97.6221392799,01/12/14
+26,26,020000Alcoholic Beverages,Index0,96.7488410288,08/12/14
+27,27,020000Alcoholic Beverages,Index0,96.6383660796,15/12/14
+28,28,020000Alcoholic Beverages,Index0,96.2948130191,22/12/14
+29,29,020000Alcoholic Beverages,Index0,97.000317434,29/12/14
+30,30,020000Alcoholic Beverages,Index0,98.1244067061,05/01/15
+31,31,020000Alcoholic Beverages,Index0,98.209958361,12/01/15
+32,32,020000Alcoholic Beverages,Index0,98.2480873103,19/01/15
+33,33,020000Alcoholic Beverages,Index0,98.7513275118,26/01/15
+34,34,020000Alcoholic Beverages,Index0,98.8045373779,02/02/15
+35,35,020000Alcoholic Beverages,Index0,98.732793836,09/02/15
+36,36,020000Alcoholic Beverages,Index0,98.5070329343,16/02/15
+37,37,020000Alcoholic Beverages,Index0,98.4780227166,23/02/15
+38,38,020000Alcoholic Beverages,Index0,98.4770529088,02/03/15
+39,39,020000Alcoholic Beverages,Index0,98.2078753681,09/03/15
+40,40,020000Alcoholic Beverages,Index0,97.626863681,16/03/15
+41,41,020000Alcoholic Beverages,Index0,97.4659455744,23/03/15
+42,42,020000Alcoholic Beverages,Index0,96.020466303,30/03/15
+43,43,020000Alcoholic Beverages,Index0,95.823412124,06/04/15
+44,44,020000Alcoholic Beverages,Index0,95.9979965161,13/04/15
+45,45,020000Alcoholic Beverages,Index0,97.3162805593,20/04/15
+46,46,020000Alcoholic Beverages,Index0,98.2767701064,27/04/15
+47,47,020000Alcoholic Beverages,Index0,98.1189697938,04/05/15
+48,48,020000Alcoholic Beverages,Index0,97.9660668064,11/05/15
+49,49,020000Alcoholic Beverages,Index0,97.4990246788,18/05/15
+50,50,020000Alcoholic Beverages,Index0,97.3089605879,25/05/15
+51,51,020000Alcoholic Beverages,Index0,97.3562517865,01/06/15
+52,52,020000Alcoholic Beverages,Index0,97.1175292744,08/06/15
+53,53,020000Alcoholic Beverages,Index0,97.0926879427,15/06/15
+54,54,020000Alcoholic Beverages,Index0,96.8462692735,22/06/15
+55,55,020000Alcoholic Beverages,Index0,96.8568803249,29/06/15
+56,56,020000Alcoholic Beverages,Index0,97.2139704209,06/07/15
+57,57,020000Alcoholic Beverages,Index0,97.3094071788,13/07/15
+58,58,020000Alcoholic Beverages,Index0,97.1228289917,20/07/15
+59,59,020000Alcoholic Beverages,Index0,97.0431495032,27/07/15
+60,60,020000Alcoholic Beverages,Index0,97.1137547988,03/08/15
+61,61,020000Alcoholic Beverages,Index0,96.914623788,10/08/15
+62,62,020000Alcoholic Beverages,Index0,96.8400057855,17/08/15
+63,63,020000Alcoholic Beverages,Index0,96.8157483283,24/08/15
+64,64,020000Alcoholic Beverages,Index0,96.670924358,31/08/15
+65,65,020000Alcoholic Beverages,Index0,96.0052315349,07/09/15
+66,66,020000Alcoholic Beverages,Index0,95.4074486629,14/09/15
+67,67,020000Alcoholic Beverages,Index0,94.7118907119,21/09/15
+68,68,020000Alcoholic Beverages,Index0,94.9333931133,28/09/15
+69,69,020000Alcoholic Beverages,Index0,95.0890055653,05/10/15
+70,70,020000Alcoholic Beverages,Index0,95.0304270869,12/10/15
+71,71,020000Alcoholic Beverages,Index0,95.2299172788,19/10/15
+72,72,020000Alcoholic Beverages,Index0,94.3949032431,02/11/15
+73,73,020000Alcoholic Beverages,Index0,94.1696037002,09/11/15
+74,74,020000Alcoholic Beverages,Index0,93.3607603825,16/11/15
+75,75,020000Alcoholic Beverages,Index0,91.7138530482,23/11/15
+76,76,020000Alcoholic Beverages,Index0,91.5473229624,30/11/15
+77,77,020000Alcoholic Beverages,Index0,90.5338144182,07/12/15
+78,78,020000Alcoholic Beverages,Index0,90.1150628908,14/12/15
+79,79,020000Alcoholic Beverages,Index0,90.2496482615,21/12/15
+80,80,020000Alcoholic Beverages,Index0,90.858700771,28/12/15
+81,81,020000Alcoholic Beverages,Index0,93.5283557325,04/01/16
+82,82,020000Alcoholic Beverages,Index0,94.5629042242,11/01/16
+83,83,020000Alcoholic Beverages,Index0,94.0638675948,18/01/16
+84,84,020000Alcoholic Beverages,Index0,93.835739921,25/01/16
+85,85,020000Alcoholic Beverages,Index0,93.8948735722,01/02/16
+86,86,020000Alcoholic Beverages,Index0,93.4552480366,08/02/16
+87,87,020000Alcoholic Beverages,Index0,93.291646286,15/02/16
+88,88,020000Alcoholic Beverages,Index0,92.8233660071,22/02/16
+89,89,020000Alcoholic Beverages,Index0,92.5712569579,29/02/16
+90,90,020000Alcoholic Beverages,Index0,92.5295476168,07/03/16
+91,91,020000Alcoholic Beverages,Index0,92.509817801,14/03/16
+92,92,020000Alcoholic Beverages,Index0,92.4689739824,21/03/16
+93,93,020000Alcoholic Beverages,Index0,92.5781405658,28/03/16
+94,94,020000Alcoholic Beverages,Index0,92.532902809,04/04/16
+95,95,020000Alcoholic Beverages,Index0,92.1703979569,11/04/16
+96,96,020000Alcoholic Beverages,Index0,92.1648153375,18/04/16
+97,97,020000Alcoholic Beverages,Index0,92.3978928843,25/04/16
+98,98,020000Alcoholic Beverages,Index0,92.7584577977,02/05/16
+99,99,020000Alcoholic Beverages,Index0,93.1510768391,09/05/16
+100,100,020000Alcoholic Beverages,Index0,93.035891001,16/05/16
+101,101,020000Alcoholic Beverages,Index0,91.0412210613,23/05/16
+102,102,020000Alcoholic Beverages,Index0,90.5745231411,30/05/16
+103,103,020000Alcoholic Beverages,Index0,90.5891726034,06/06/16
+104,104,020000Alcoholic Beverages,Index0,90.3292016664,13/06/16
+105,105,020000Alcoholic Beverages,Index0,91.2238630743,20/06/16
+106,106,020000Alcoholic Beverages,Index0,91.4816891714,27/06/16
+107,107,020000Alcoholic Beverages,Index0,91.5093846994,04/07/16
+108,108,020000Alcoholic Beverages,Index0,91.8031228783,11/07/16
+109,109,020000Alcoholic Beverages,Index0,91.9051075798,18/07/16
+110,110,020000Alcoholic Beverages,Index0,91.6349235463,25/07/16
+111,111,020000Alcoholic Beverages,Index0,91.4978296377,01/08/16
+112,112,020000Alcoholic Beverages,Index0,91.270589572,08/08/16
+113,113,020000Alcoholic Beverages,Index0,92.5532811847,31/10/16
+114,114,010000Food & Non-Alcoholic Beverages,Index0,98.0761971831,09/06/14
+115,115,010000Food & Non-Alcoholic Beverages,Index0,97.5616497957,16/06/14
+116,116,010000Food & Non-Alcoholic Beverages,Index0,97.1230409438,23/06/14
+117,117,010000Food & Non-Alcoholic Beverages,Index0,97.7006034685,30/06/14
+118,118,010000Food & Non-Alcoholic Beverages,Index0,97.5766435589,07/07/14
+119,119,010000Food & Non-Alcoholic Beverages,Index0,97.6585998523,14/07/14
+120,120,010000Food & Non-Alcoholic Beverages,Index0,97.4633560754,21/07/14
+121,121,010000Food & Non-Alcoholic Beverages,Index0,97.4033726561,28/07/14
+122,122,010000Food & Non-Alcoholic Beverages,Index0,97.2762292965,04/08/14
+123,123,010000Food & Non-Alcoholic Beverages,Index0,97.1658834897,11/08/14
+124,124,010000Food & Non-Alcoholic Beverages,Index0,97.3750499664,18/08/14
+125,125,010000Food & Non-Alcoholic Beverages,Index0,96.7958552458,25/08/14
+126,126,010000Food & Non-Alcoholic Beverages,Index0,96.7019041843,01/09/14
+127,127,010000Food & Non-Alcoholic Beverages,Index0,96.7334674289,08/09/14
+128,128,010000Food & Non-Alcoholic Beverages,Index0,96.8683272309,15/09/14
+129,129,010000Food & Non-Alcoholic Beverages,Index0,96.9289088178,22/09/14
+130,130,010000Food & Non-Alcoholic Beverages,Index0,97.04290143,29/09/14
+131,131,010000Food & Non-Alcoholic Beverages,Index0,96.9520220726,06/10/14
+132,132,010000Food & Non-Alcoholic Beverages,Index0,97.2339365714,13/10/14
+133,133,010000Food & Non-Alcoholic Beverages,Index0,97.9169679434,20/10/14
+134,134,010000Food & Non-Alcoholic Beverages,Index0,98.0765027377,27/10/14
+135,135,010000Food & Non-Alcoholic Beverages,Index0,98.2116095126,03/11/14
+136,136,010000Food & Non-Alcoholic Beverages,Index0,98.4633666463,10/11/14
+137,137,010000Food & Non-Alcoholic Beverages,Index0,98.5013198994,17/11/14
+138,138,010000Food & Non-Alcoholic Beverages,Index0,98.8525606512,24/11/14
+139,139,010000Food & Non-Alcoholic Beverages,Index0,98.7357174859,01/12/14
+140,140,010000Food & Non-Alcoholic Beverages,Index0,98.3227110933,08/12/14
+141,141,010000Food & Non-Alcoholic Beverages,Index0,98.2052715851,15/12/14
+142,142,010000Food & Non-Alcoholic Beverages,Index0,98.3636338332,22/12/14
+143,143,010000Food & Non-Alcoholic Beverages,Index0,98.0494676967,29/12/14
+144,144,010000Food & Non-Alcoholic Beverages,Index0,96.0378968009,05/01/15
+145,145,010000Food & Non-Alcoholic Beverages,Index0,95.015835834,12/01/15
+146,146,010000Food & Non-Alcoholic Beverages,Index0,94.3930043453,19/01/15
+147,147,010000Food & Non-Alcoholic Beverages,Index0,94.76864768,26/01/15
+148,148,010000Food & Non-Alcoholic Beverages,Index0,95.3301181331,02/02/15
+149,149,010000Food & Non-Alcoholic Beverages,Index0,95.0363753601,09/02/15
+150,150,010000Food & Non-Alcoholic Beverages,Index0,95.0853508283,16/02/15
+151,151,010000Food & Non-Alcoholic Beverages,Index0,95.292234912,23/02/15
+152,152,010000Food & Non-Alcoholic Beverages,Index0,94.5791358302,02/03/15
+153,153,010000Food & Non-Alcoholic Beverages,Index0,94.1014248621,09/03/15
+154,154,010000Food & Non-Alcoholic Beverages,Index0,94.5004312711,16/03/15
+155,155,010000Food & Non-Alcoholic Beverages,Index0,94.2689322521,23/03/15
+156,156,010000Food & Non-Alcoholic Beverages,Index0,94.3897843119,30/03/15
+157,157,010000Food & Non-Alcoholic Beverages,Index0,94.2539318074,06/04/15
+158,158,010000Food & Non-Alcoholic Beverages,Index0,94.6147361246,13/04/15
+159,159,010000Food & Non-Alcoholic Beverages,Index0,94.5134090604,20/04/15
+160,160,010000Food & Non-Alcoholic Beverages,Index0,94.3379395946,27/04/15
+161,161,010000Food & Non-Alcoholic Beverages,Index0,94.3064844752,04/05/15
+162,162,010000Food & Non-Alcoholic Beverages,Index0,94.4977158463,11/05/15
+163,163,010000Food & Non-Alcoholic Beverages,Index0,94.4720654584,18/05/15
+164,164,010000Food & Non-Alcoholic Beverages,Index0,94.5739859117,25/05/15
+165,165,010000Food & Non-Alcoholic Beverages,Index0,94.4676316456,01/06/15
+166,166,010000Food & Non-Alcoholic Beverages,Index0,94.1274999526,08/06/15
+167,167,010000Food & Non-Alcoholic Beverages,Index0,94.1267644114,15/06/15
+168,168,010000Food & Non-Alcoholic Beverages,Index0,94.7075871595,22/06/15
+169,169,010000Food & Non-Alcoholic Beverages,Index0,94.9237703595,29/06/15
+170,170,010000Food & Non-Alcoholic Beverages,Index0,93.7017544478,06/07/15
+171,171,010000Food & Non-Alcoholic Beverages,Index0,93.4255608042,13/07/15
+172,172,010000Food & Non-Alcoholic Beverages,Index0,93.3038177375,20/07/15
+173,173,010000Food & Non-Alcoholic Beverages,Index0,93.1759009174,27/07/15
+174,174,010000Food & Non-Alcoholic Beverages,Index0,93.3311291898,03/08/15
+175,175,010000Food & Non-Alcoholic Beverages,Index0,93.0473395293,10/08/15
+176,176,010000Food & Non-Alcoholic Beverages,Index0,93.0138653315,17/08/15
+177,177,010000Food & Non-Alcoholic Beverages,Index0,92.7443710995,24/08/15
+178,178,010000Food & Non-Alcoholic Beverages,Index0,92.4518570744,31/08/15
+179,179,010000Food & Non-Alcoholic Beverages,Index0,92.0530329824,07/09/15
+180,180,010000Food & Non-Alcoholic Beverages,Index0,91.5537717168,14/09/15
+181,181,010000Food & Non-Alcoholic Beverages,Index0,92.010218059,21/09/15
+182,182,010000Food & Non-Alcoholic Beverages,Index0,92.4554189904,28/09/15
+183,183,010000Food & Non-Alcoholic Beverages,Index0,92.8545909394,05/10/15
+184,184,010000Food & Non-Alcoholic Beverages,Index0,92.516078959,12/10/15
+185,185,010000Food & Non-Alcoholic Beverages,Index0,92.3062393663,19/10/15
+186,186,010000Food & Non-Alcoholic Beverages,Index0,93.3855322278,02/11/15
+187,187,010000Food & Non-Alcoholic Beverages,Index0,94.0364256218,09/11/15
+188,188,010000Food & Non-Alcoholic Beverages,Index0,94.0719473772,16/11/15
+189,189,010000Food & Non-Alcoholic Beverages,Index0,93.5875846817,23/11/15
+190,190,010000Food & Non-Alcoholic Beverages,Index0,93.6245475655,30/11/15
+191,191,010000Food & Non-Alcoholic Beverages,Index0,94.048414187,07/12/15
+192,192,010000Food & Non-Alcoholic Beverages,Index0,93.776920921,14/12/15
+193,193,010000Food & Non-Alcoholic Beverages,Index0,94.0042298311,21/12/15
+194,194,010000Food & Non-Alcoholic Beverages,Index0,93.8157431309,28/12/15
+195,195,010000Food & Non-Alcoholic Beverages,Index0,94.0540728912,04/01/16
+196,196,010000Food & Non-Alcoholic Beverages,Index0,92.8825608295,11/01/16
+197,197,010000Food & Non-Alcoholic Beverages,Index0,92.3523388191,18/01/16
+198,198,010000Food & Non-Alcoholic Beverages,Index0,92.6160520504,25/01/16
+199,199,010000Food & Non-Alcoholic Beverages,Index0,92.900052609,01/02/16
+200,200,010000Food & Non-Alcoholic Beverages,Index0,93.2138507387,08/02/16
+201,201,010000Food & Non-Alcoholic Beverages,Index0,92.6770340052,15/02/16
+202,202,010000Food & Non-Alcoholic Beverages,Index0,92.9456024403,22/02/16
+203,203,010000Food & Non-Alcoholic Beverages,Index0,92.3561596852,29/02/16
+204,204,010000Food & Non-Alcoholic Beverages,Index0,92.2468320393,07/03/16
+205,205,010000Food & Non-Alcoholic Beverages,Index0,91.8855190846,14/03/16
+206,206,010000Food & Non-Alcoholic Beverages,Index0,91.5519277284,21/03/16
+207,207,010000Food & Non-Alcoholic Beverages,Index0,91.0381473873,28/03/16
+208,208,010000Food & Non-Alcoholic Beverages,Index0,90.2725530133,04/04/16
+209,209,010000Food & Non-Alcoholic Beverages,Index0,90.1768485157,11/04/16
+210,210,010000Food & Non-Alcoholic Beverages,Index0,90.6727555144,18/04/16
+211,211,010000Food & Non-Alcoholic Beverages,Index0,91.1783504586,25/04/16
+212,212,010000Food & Non-Alcoholic Beverages,Index0,91.2624939433,02/05/16
+213,213,010000Food & Non-Alcoholic Beverages,Index0,90.5499284024,09/05/16
+214,214,010000Food & Non-Alcoholic Beverages,Index0,90.5868206594,16/05/16
+215,215,010000Food & Non-Alcoholic Beverages,Index0,88.8475417949,23/05/16
+216,216,010000Food & Non-Alcoholic Beverages,Index0,89.5002903261,30/05/16
+217,217,010000Food & Non-Alcoholic Beverages,Index0,89.2587171915,06/06/16
+218,218,010000Food & Non-Alcoholic Beverages,Index0,89.527293035,13/06/16
+219,219,010000Food & Non-Alcoholic Beverages,Index0,89.1154970094,20/06/16
+220,220,010000Food & Non-Alcoholic Beverages,Index0,88.8394013219,27/06/16
+221,221,010000Food & Non-Alcoholic Beverages,Index0,88.4930975138,04/07/16
+222,222,010000Food & Non-Alcoholic Beverages,Index0,88.6448693715,11/07/16
+223,223,010000Food & Non-Alcoholic Beverages,Index0,88.0571051,18/07/16
+224,224,010000Food & Non-Alcoholic Beverages,Index0,88.4782013037,25/07/16
+225,225,010000Food & Non-Alcoholic Beverages,Index0,88.4564421166,01/08/16
+226,226,010000Food & Non-Alcoholic Beverages,Index0,88.2447940389,08/08/16
+227,227,010000Food & Non-Alcoholic Beverages,Index0,89.8746154193,31/10/16
+0,0,020000Alcoholic Beverages,Index1,100.0,09/06/14
+1,1,020000Alcoholic Beverages,Index1,99.8362694762,16/06/14
+2,2,020000Alcoholic Beverages,Index1,99.6770722957,23/06/14
+3,3,020000Alcoholic Beverages,Index1,99.6748249261,30/06/14
+4,4,020000Alcoholic Beverages,Index1,99.5696108975,07/07/14
+5,5,020000Alcoholic Beverages,Index1,99.5500937637,14/07/14
+6,6,020000Alcoholic Beverages,Index1,99.8169561426,21/07/14
+7,7,020000Alcoholic Beverages,Index1,101.601302857,28/07/14
+8,8,020000Alcoholic Beverages,Index1,101.38646659,04/08/14
+9,9,020000Alcoholic Beverages,Index1,100.697275632,11/08/14
+10,10,020000Alcoholic Beverages,Index1,100.697971387,18/08/14
+11,11,020000Alcoholic Beverages,Index1,100.017063993,25/08/14
+12,12,020000Alcoholic Beverages,Index1,100.035484692,01/09/14
+13,13,020000Alcoholic Beverages,Index1,99.8895617839,08/09/14
+14,14,020000Alcoholic Beverages,Index1,99.0413388698,15/09/14
+15,15,020000Alcoholic Beverages,Index1,98.7830023182,22/09/14
+16,16,020000Alcoholic Beverages,Index1,99.9868977433,29/09/14
+17,17,020000Alcoholic Beverages,Index1,99.7238103572,06/10/14
+18,18,020000Alcoholic Beverages,Index1,99.6327902428,13/10/14
+19,19,020000Alcoholic Beverages,Index1,99.9082566023,20/10/14
+20,20,020000Alcoholic Beverages,Index1,99.4153171599,27/10/14
+21,21,020000Alcoholic Beverages,Index1,98.7715267814,03/11/14
+22,22,020000Alcoholic Beverages,Index1,98.241784047,10/11/14
+23,23,020000Alcoholic Beverages,Index1,97.8728548221,17/11/14
+24,24,020000Alcoholic Beverages,Index1,97.9430882645,24/11/14
+25,25,020000Alcoholic Beverages,Index1,98.199391225,01/12/14
+26,26,020000Alcoholic Beverages,Index1,97.5460821905,08/12/14
+27,27,020000Alcoholic Beverages,Index1,96.5035618408,15/12/14
+28,28,020000Alcoholic Beverages,Index1,96.4471158379,22/12/14
+29,29,020000Alcoholic Beverages,Index1,96.1640350369,29/12/14
+30,30,020000Alcoholic Beverages,Index1,97.1386171994,05/01/15
+31,31,020000Alcoholic Beverages,Index1,98.246105672,12/01/15
+32,32,020000Alcoholic Beverages,Index1,98.5024840622,19/01/15
+33,33,020000Alcoholic Beverages,Index1,98.5123798185,26/01/15
+34,34,020000Alcoholic Beverages,Index1,99.0010878599,02/02/15
+35,35,020000Alcoholic Beverages,Index1,99.0457000221,09/02/15
+36,36,020000Alcoholic Beverages,Index1,98.8982536394,16/02/15
+37,37,020000Alcoholic Beverages,Index1,98.8064246922,23/02/15
+38,38,020000Alcoholic Beverages,Index1,98.8110951301,02/03/15
+39,39,020000Alcoholic Beverages,Index1,98.9504432194,09/03/15
+40,40,020000Alcoholic Beverages,Index1,98.4976453825,16/03/15
+41,41,020000Alcoholic Beverages,Index1,98.1312925222,23/03/15
+42,42,020000Alcoholic Beverages,Index1,98.1014581952,30/03/15
+43,43,020000Alcoholic Beverages,Index1,96.1354036274,06/04/15
+44,44,020000Alcoholic Beverages,Index1,96.0555095868,13/04/15
+45,45,020000Alcoholic Beverages,Index1,96.5222929984,20/04/15
+46,46,020000Alcoholic Beverages,Index1,98.2007774378,27/04/15
+47,47,020000Alcoholic Beverages,Index1,98.8350130704,04/05/15
+48,48,020000Alcoholic Beverages,Index1,98.7391458492,11/05/15
+49,49,020000Alcoholic Beverages,Index1,98.4141266243,18/05/15
+50,50,020000Alcoholic Beverages,Index1,98.0123748131,25/05/15
+51,51,020000Alcoholic Beverages,Index1,97.586435669,01/06/15
+52,52,020000Alcoholic Beverages,Index1,97.5477494256,08/06/15
+53,53,020000Alcoholic Beverages,Index1,97.2431123196,15/06/15
+54,54,020000Alcoholic Beverages,Index1,97.3500242795,22/06/15
+55,55,020000Alcoholic Beverages,Index1,97.6630595957,29/06/15
+56,56,020000Alcoholic Beverages,Index1,97.5038173406,06/07/15
+57,57,020000Alcoholic Beverages,Index1,98.0455911213,13/07/15
+58,58,020000Alcoholic Beverages,Index1,98.1264150723,20/07/15
+59,59,020000Alcoholic Beverages,Index1,97.6472865992,27/07/15
+60,60,020000Alcoholic Beverages,Index1,97.6557073049,03/08/15
+61,61,020000Alcoholic Beverages,Index1,97.3027492748,10/08/15
+62,62,020000Alcoholic Beverages,Index1,97.0062448182,17/08/15
+63,63,020000Alcoholic Beverages,Index1,97.1632219329,24/08/15
+64,64,020000Alcoholic Beverages,Index1,97.2847031512,31/08/15
+65,65,020000Alcoholic Beverages,Index1,96.6630910205,07/09/15
+66,66,020000Alcoholic Beverages,Index1,96.1295449045,14/09/15
+67,67,020000Alcoholic Beverages,Index1,95.5841617307,21/09/15
+68,68,020000Alcoholic Beverages,Index1,95.0547923778,28/09/15
+69,69,020000Alcoholic Beverages,Index1,94.9910671279,05/10/15
+70,70,020000Alcoholic Beverages,Index1,95.1080054547,12/10/15
+71,71,020000Alcoholic Beverages,Index1,95.5661266333,19/10/15
+72,72,020000Alcoholic Beverages,Index1,95.7489087572,26/10/15
+73,73,020000Alcoholic Beverages,Index1,95.0253759139,09/11/15
+74,74,020000Alcoholic Beverages,Index1,94.6359793434,16/11/15
+75,75,020000Alcoholic Beverages,Index1,93.9321079977,23/11/15
+76,76,020000Alcoholic Beverages,Index1,92.8906868274,30/11/15
+77,77,020000Alcoholic Beverages,Index1,92.7113154667,07/12/15
+78,78,020000Alcoholic Beverages,Index1,91.0880563899,14/12/15
+79,79,020000Alcoholic Beverages,Index1,90.6481570327,21/12/15
+80,80,020000Alcoholic Beverages,Index1,90.1835853224,28/12/15
+81,81,020000Alcoholic Beverages,Index1,88.8898479765,04/01/16
+82,82,020000Alcoholic Beverages,Index1,91.2746985366,11/01/16
+83,83,020000Alcoholic Beverages,Index1,92.1759468868,18/01/16
+84,84,020000Alcoholic Beverages,Index1,91.8021483008,25/01/16
+85,85,020000Alcoholic Beverages,Index1,91.6304598767,01/02/16
+86,86,020000Alcoholic Beverages,Index1,91.6155708473,08/02/16
+87,87,020000Alcoholic Beverages,Index1,90.9017654201,15/02/16
+88,88,020000Alcoholic Beverages,Index1,90.8217667878,22/02/16
+89,89,020000Alcoholic Beverages,Index1,90.3477516118,29/02/16
+90,90,020000Alcoholic Beverages,Index1,90.4132391314,07/03/16
+91,91,020000Alcoholic Beverages,Index1,89.3466728464,14/03/16
+92,92,020000Alcoholic Beverages,Index1,89.3240467578,21/03/16
+93,93,020000Alcoholic Beverages,Index1,89.3307927829,28/03/16
+94,94,020000Alcoholic Beverages,Index1,89.1995551359,04/04/16
+95,95,020000Alcoholic Beverages,Index1,88.8756701102,11/04/16
+96,96,020000Alcoholic Beverages,Index1,88.9134243382,18/04/16
+97,97,020000Alcoholic Beverages,Index1,89.2804377231,25/04/16
+98,98,020000Alcoholic Beverages,Index1,89.6545449044,02/05/16
+99,99,020000Alcoholic Beverages,Index1,89.9260772341,09/05/16
+100,100,020000Alcoholic Beverages,Index1,89.8384421395,16/05/16
+101,101,020000Alcoholic Beverages,Index1,87.4602037323,23/05/16
+102,102,020000Alcoholic Beverages,Index1,87.5106799739,30/05/16
+103,103,020000Alcoholic Beverages,Index1,87.5096688931,06/06/16
+104,104,020000Alcoholic Beverages,Index1,87.3388284755,13/06/16
+105,105,020000Alcoholic Beverages,Index1,88.4422408965,20/06/16
+106,106,020000Alcoholic Beverages,Index1,88.6255285664,27/06/16
+107,107,020000Alcoholic Beverages,Index1,88.6457079209,04/07/16
+108,108,020000Alcoholic Beverages,Index1,88.8971305743,11/07/16
+109,109,020000Alcoholic Beverages,Index1,88.9571184975,18/07/16
+110,110,020000Alcoholic Beverages,Index1,88.6248923598,25/07/16
+111,111,020000Alcoholic Beverages,Index1,88.6261115658,01/08/16
+112,112,020000Alcoholic Beverages,Index1,88.2327594309,08/08/16
+113,113,020000Alcoholic Beverages,Index1,90.2798639735,31/10/16
+114,114,010000Food & Non-Alcoholic Beverages,Index1,98.0793853936,09/06/14
+115,115,010000Food & Non-Alcoholic Beverages,Index1,100.476128712,16/06/14
+116,116,010000Food & Non-Alcoholic Beverages,Index1,99.7839930458,23/06/14
+117,117,010000Food & Non-Alcoholic Beverages,Index1,99.450490762,30/06/14
+118,118,010000Food & Non-Alcoholic Beverages,Index1,100.139101662,07/07/14
+119,119,010000Food & Non-Alcoholic Beverages,Index1,99.8461833884,14/07/14
+120,120,010000Food & Non-Alcoholic Beverages,Index1,99.909673262,21/07/14
+121,121,010000Food & Non-Alcoholic Beverages,Index1,99.8404474683,28/07/14
+122,122,010000Food & Non-Alcoholic Beverages,Index1,99.9099852886,04/08/14
+123,123,010000Food & Non-Alcoholic Beverages,Index1,99.6498173176,11/08/14
+124,124,010000Food & Non-Alcoholic Beverages,Index1,99.7640809681,18/08/14
+125,125,010000Food & Non-Alcoholic Beverages,Index1,100.057461572,25/08/14
+126,126,010000Food & Non-Alcoholic Beverages,Index1,99.1885057808,01/09/14
+127,127,010000Food & Non-Alcoholic Beverages,Index1,99.0174724103,08/09/14
+128,128,010000Food & Non-Alcoholic Beverages,Index1,98.9571664829,15/09/14
+129,129,010000Food & Non-Alcoholic Beverages,Index1,99.2075713457,22/09/14
+130,130,010000Food & Non-Alcoholic Beverages,Index1,99.5137587007,29/09/14
+131,131,010000Food & Non-Alcoholic Beverages,Index1,99.6932792485,06/10/14
+132,132,010000Food & Non-Alcoholic Beverages,Index1,99.2919569169,13/10/14
+133,133,010000Food & Non-Alcoholic Beverages,Index1,99.5547717779,20/10/14
+134,134,010000Food & Non-Alcoholic Beverages,Index1,100.460879585,27/10/14
+135,135,010000Food & Non-Alcoholic Beverages,Index1,101.021987594,03/11/14
+136,136,010000Food & Non-Alcoholic Beverages,Index1,101.261377641,10/11/14
+137,137,010000Food & Non-Alcoholic Beverages,Index1,101.572227314,17/11/14
+138,138,010000Food & Non-Alcoholic Beverages,Index1,101.499462011,24/11/14
+139,139,010000Food & Non-Alcoholic Beverages,Index1,101.891454138,01/12/14
+140,140,010000Food & Non-Alcoholic Beverages,Index1,101.471708083,08/12/14
+141,141,010000Food & Non-Alcoholic Beverages,Index1,100.764738035,15/12/14
+142,142,010000Food & Non-Alcoholic Beverages,Index1,100.663919414,22/12/14
+143,143,010000Food & Non-Alcoholic Beverages,Index1,100.82212669,29/12/14
+144,144,010000Food & Non-Alcoholic Beverages,Index1,100.923725999,05/01/15
+145,145,010000Food & Non-Alcoholic Beverages,Index1,99.9871235444,12/01/15
+146,146,010000Food & Non-Alcoholic Beverages,Index1,99.2127513186,19/01/15
+147,147,010000Food & Non-Alcoholic Beverages,Index1,98.8106048963,26/01/15
+148,148,010000Food & Non-Alcoholic Beverages,Index1,99.7222958409,02/02/15
+149,149,010000Food & Non-Alcoholic Beverages,Index1,100.158028774,09/02/15
+150,150,010000Food & Non-Alcoholic Beverages,Index1,100.220408749,16/02/15
+151,151,010000Food & Non-Alcoholic Beverages,Index1,100.245315324,23/02/15
+152,152,010000Food & Non-Alcoholic Beverages,Index1,100.515507906,02/03/15
+153,153,010000Food & Non-Alcoholic Beverages,Index1,99.6463807861,09/03/15
+154,154,010000Food & Non-Alcoholic Beverages,Index1,99.3770754111,16/03/15
+155,155,010000Food & Non-Alcoholic Beverages,Index1,99.3589516695,23/03/15
+156,156,010000Food & Non-Alcoholic Beverages,Index1,99.4739839509,30/03/15
+157,157,010000Food & Non-Alcoholic Beverages,Index1,99.5831238316,06/04/15
+158,158,010000Food & Non-Alcoholic Beverages,Index1,99.5641404076,13/04/15
+159,159,010000Food & Non-Alcoholic Beverages,Index1,99.6440439598,20/04/15
+160,160,010000Food & Non-Alcoholic Beverages,Index1,99.5701744821,27/04/15
+161,161,010000Food & Non-Alcoholic Beverages,Index1,99.6157717421,04/05/15
+162,162,010000Food & Non-Alcoholic Beverages,Index1,99.5722528892,11/05/15
+163,163,010000Food & Non-Alcoholic Beverages,Index1,99.7647304178,18/05/15
+164,164,010000Food & Non-Alcoholic Beverages,Index1,99.427013162,25/05/15
+165,165,010000Food & Non-Alcoholic Beverages,Index1,98.9070799143,01/06/15
+166,166,010000Food & Non-Alcoholic Beverages,Index1,99.6149314096,08/06/15
+167,167,010000Food & Non-Alcoholic Beverages,Index1,98.9046838317,15/06/15
+168,168,010000Food & Non-Alcoholic Beverages,Index1,99.1916443938,22/06/15
+169,169,010000Food & Non-Alcoholic Beverages,Index1,102.344594282,29/06/15
+170,170,010000Food & Non-Alcoholic Beverages,Index1,102.354382686,06/07/15
+171,171,010000Food & Non-Alcoholic Beverages,Index1,99.0223050886,13/07/15
+172,172,010000Food & Non-Alcoholic Beverages,Index1,98.8512282492,20/07/15
+173,173,010000Food & Non-Alcoholic Beverages,Index1,98.5312223294,27/07/15
+174,174,010000Food & Non-Alcoholic Beverages,Index1,98.2043283548,03/08/15
+175,175,010000Food & Non-Alcoholic Beverages,Index1,98.654609255,10/08/15
+176,176,010000Food & Non-Alcoholic Beverages,Index1,98.0972127268,17/08/15
+177,177,010000Food & Non-Alcoholic Beverages,Index1,98.1098533059,24/08/15
+178,178,010000Food & Non-Alcoholic Beverages,Index1,98.0825845709,31/08/15
+179,179,010000Food & Non-Alcoholic Beverages,Index1,97.8589257495,07/09/15
+180,180,010000Food & Non-Alcoholic Beverages,Index1,97.6257023283,14/09/15
+181,181,010000Food & Non-Alcoholic Beverages,Index1,96.9369540092,21/09/15
+182,182,010000Food & Non-Alcoholic Beverages,Index1,97.32256676,28/09/15
+183,183,010000Food & Non-Alcoholic Beverages,Index1,97.8999913803,05/10/15
+184,184,010000Food & Non-Alcoholic Beverages,Index1,98.5747704425,12/10/15
+185,185,010000Food & Non-Alcoholic Beverages,Index1,98.1731260134,19/10/15
+186,186,010000Food & Non-Alcoholic Beverages,Index1,98.3022580519,26/10/15
+187,187,010000Food & Non-Alcoholic Beverages,Index1,98.1854724165,09/11/15
+188,188,010000Food & Non-Alcoholic Beverages,Index1,98.3065819602,16/11/15
+189,189,010000Food & Non-Alcoholic Beverages,Index1,98.0117180804,23/11/15
+190,190,010000Food & Non-Alcoholic Beverages,Index1,97.8014101501,30/11/15
+191,191,010000Food & Non-Alcoholic Beverages,Index1,97.8366922111,07/12/15
+192,192,010000Food & Non-Alcoholic Beverages,Index1,97.9650868749,14/12/15
+193,193,010000Food & Non-Alcoholic Beverages,Index1,97.6249778637,21/12/15
+194,194,010000Food & Non-Alcoholic Beverages,Index1,98.1396895547,28/12/15
+195,195,010000Food & Non-Alcoholic Beverages,Index1,98.1429561254,04/01/16
+196,196,010000Food & Non-Alcoholic Beverages,Index1,97.2693745155,11/01/16
+197,197,010000Food & Non-Alcoholic Beverages,Index1,96.8523958438,18/01/16
+198,198,010000Food & Non-Alcoholic Beverages,Index1,97.2284198619,25/01/16
+199,199,010000Food & Non-Alcoholic Beverages,Index1,97.9838129509,01/02/16
+200,200,010000Food & Non-Alcoholic Beverages,Index1,98.639410795,08/02/16
+201,201,010000Food & Non-Alcoholic Beverages,Index1,98.6417488659,15/02/16
+202,202,010000Food & Non-Alcoholic Beverages,Index1,97.9227325777,22/02/16
+203,203,010000Food & Non-Alcoholic Beverages,Index1,98.1898750755,29/02/16
+204,204,010000Food & Non-Alcoholic Beverages,Index1,97.7837190068,07/03/16
+205,205,010000Food & Non-Alcoholic Beverages,Index1,96.2504786735,14/03/16
+206,206,010000Food & Non-Alcoholic Beverages,Index1,96.6279338535,21/03/16
+207,207,010000Food & Non-Alcoholic Beverages,Index1,91.8147782556,28/03/16
+208,208,010000Food & Non-Alcoholic Beverages,Index1,90.6068266611,04/04/16
+209,209,010000Food & Non-Alcoholic Beverages,Index1,90.6937745819,11/04/16
+210,210,010000Food & Non-Alcoholic Beverages,Index1,91.0752876722,18/04/16
+211,211,010000Food & Non-Alcoholic Beverages,Index1,90.1007389124,25/04/16
+212,212,010000Food & Non-Alcoholic Beverages,Index1,90.2891954791,02/05/16
+213,213,010000Food & Non-Alcoholic Beverages,Index1,95.7629816997,09/05/16
+214,214,010000Food & Non-Alcoholic Beverages,Index1,95.4442723046,16/05/16
+215,215,010000Food & Non-Alcoholic Beverages,Index1,96.1199850133,23/05/16
+216,216,010000Food & Non-Alcoholic Beverages,Index1,94.6338626611,30/05/16
+217,217,010000Food & Non-Alcoholic Beverages,Index1,95.0729265943,06/06/16
+218,218,010000Food & Non-Alcoholic Beverages,Index1,95.1149609983,13/06/16
+219,219,010000Food & Non-Alcoholic Beverages,Index1,94.6777315788,20/06/16
+220,220,010000Food & Non-Alcoholic Beverages,Index1,94.8286297847,27/06/16
+221,221,010000Food & Non-Alcoholic Beverages,Index1,94.7957094765,04/07/16
+222,222,010000Food & Non-Alcoholic Beverages,Index1,95.5824189989,11/07/16
+223,223,010000Food & Non-Alcoholic Beverages,Index1,94.9906138656,18/07/16
+224,224,010000Food & Non-Alcoholic Beverages,Index1,95.0191154318,25/07/16
+225,225,010000Food & Non-Alcoholic Beverages,Index1,94.8412161434,01/08/16
+226,226,010000Food & Non-Alcoholic Beverages,Index1,94.8334690775,08/08/16
+227,227,010000Food & Non-Alcoholic Beverages,Index1,95.6367811386,31/10/16
+0,0,020000Alcoholic Beverages,Index2,100.0,09/06/14
+1,1,020000Alcoholic Beverages,Index2,99.8155318004,16/06/14
+2,2,020000Alcoholic Beverages,Index2,99.7616296942,23/06/14
+3,3,020000Alcoholic Beverages,Index2,99.7279407774,30/06/14
+4,4,020000Alcoholic Beverages,Index2,99.68629283,07/07/14
+5,5,020000Alcoholic Beverages,Index2,99.7811003571,14/07/14
+6,6,020000Alcoholic Beverages,Index2,100.010320823,21/07/14
+7,7,020000Alcoholic Beverages,Index2,101.515245341,28/07/14
+8,8,020000Alcoholic Beverages,Index2,101.150265283,04/08/14
+9,9,020000Alcoholic Beverages,Index2,100.696232073,11/08/14
+10,10,020000Alcoholic Beverages,Index2,100.623776758,18/08/14
+11,11,020000Alcoholic Beverages,Index2,99.9178386355,25/08/14
+12,12,020000Alcoholic Beverages,Index2,99.7903325168,01/09/14
+13,13,020000Alcoholic Beverages,Index2,99.5962473585,08/09/14
+14,14,020000Alcoholic Beverages,Index2,98.7760774226,15/09/14
+15,15,020000Alcoholic Beverages,Index2,98.6121614001,22/09/14
+16,16,020000Alcoholic Beverages,Index2,99.9300904109,29/09/14
+17,17,020000Alcoholic Beverages,Index2,99.6393752763,06/10/14
+18,18,020000Alcoholic Beverages,Index2,99.6325889023,13/10/14
+19,19,020000Alcoholic Beverages,Index2,99.9521383958,20/10/14
+20,20,020000Alcoholic Beverages,Index2,99.4821509443,27/10/14
+21,21,020000Alcoholic Beverages,Index2,98.7802623454,03/11/14
+22,22,020000Alcoholic Beverages,Index2,98.1767991068,10/11/14
+23,23,020000Alcoholic Beverages,Index2,97.8775493351,17/11/14
+24,24,020000Alcoholic Beverages,Index2,97.91022363,24/11/14
+25,25,020000Alcoholic Beverages,Index2,97.8711944233,01/12/14
+26,26,020000Alcoholic Beverages,Index2,97.0540217939,08/12/14
+27,27,020000Alcoholic Beverages,Index2,96.1106794833,15/12/14
+28,28,020000Alcoholic Beverages,Index2,96.1023377772,22/12/14
+29,29,020000Alcoholic Beverages,Index2,95.7061129964,29/12/14
+30,30,020000Alcoholic Beverages,Index2,96.4898082146,05/01/15
+31,31,020000Alcoholic Beverages,Index2,97.7465160743,12/01/15
+32,32,020000Alcoholic Beverages,Index2,97.989861656,19/01/15
+33,33,020000Alcoholic Beverages,Index2,97.981809418,26/01/15
+34,34,020000Alcoholic Beverages,Index2,98.3052574603,02/02/15
+35,35,020000Alcoholic Beverages,Index2,98.2175584265,09/02/15
+36,36,020000Alcoholic Beverages,Index2,98.0329122985,16/02/15
+37,37,020000Alcoholic Beverages,Index2,97.9304455218,23/02/15
+38,38,020000Alcoholic Beverages,Index2,97.9179299561,02/03/15
+39,39,020000Alcoholic Beverages,Index2,97.9975475344,09/03/15
+40,40,020000Alcoholic Beverages,Index2,97.76768248,16/03/15
+41,41,020000Alcoholic Beverages,Index2,97.5387640939,23/03/15
+42,42,020000Alcoholic Beverages,Index2,97.4499910334,30/03/15
+43,43,020000Alcoholic Beverages,Index2,95.8897547527,06/04/15
+44,44,020000Alcoholic Beverages,Index2,95.8600162948,13/04/15
+45,45,020000Alcoholic Beverages,Index2,95.763721914,20/04/15
+46,46,020000Alcoholic Beverages,Index2,97.3395528108,27/04/15
+47,47,020000Alcoholic Beverages,Index2,97.8202816245,04/05/15
+48,48,020000Alcoholic Beverages,Index2,97.703119484,11/05/15
+49,49,020000Alcoholic Beverages,Index2,97.5440489564,18/05/15
+50,50,020000Alcoholic Beverages,Index2,96.9280920506,25/05/15
+51,51,020000Alcoholic Beverages,Index2,96.8067385093,01/06/15
+52,52,020000Alcoholic Beverages,Index2,96.6212562776,08/06/15
+53,53,020000Alcoholic Beverages,Index2,96.4353953823,15/06/15
+54,54,020000Alcoholic Beverages,Index2,96.4079170476,22/06/15
+55,55,020000Alcoholic Beverages,Index2,96.4087541348,29/06/15
+56,56,020000Alcoholic Beverages,Index2,96.5002893771,06/07/15
+57,57,020000Alcoholic Beverages,Index2,96.877916327,13/07/15
+58,58,020000Alcoholic Beverages,Index2,96.9771666764,20/07/15
+59,59,020000Alcoholic Beverages,Index2,96.7692017599,27/07/15
+60,60,020000Alcoholic Beverages,Index2,96.7795529008,03/08/15
+61,61,020000Alcoholic Beverages,Index2,96.7976564498,10/08/15
+62,62,020000Alcoholic Beverages,Index2,96.7414555974,17/08/15
+63,63,020000Alcoholic Beverages,Index2,96.4053390143,24/08/15
+64,64,020000Alcoholic Beverages,Index2,96.0750239191,31/08/15
+65,65,020000Alcoholic Beverages,Index2,95.6029513489,07/09/15
+66,66,020000Alcoholic Beverages,Index2,94.9800347864,14/09/15
+67,67,020000Alcoholic Beverages,Index2,94.426814056,21/09/15
+68,68,020000Alcoholic Beverages,Index2,94.0269396507,28/09/15
+69,69,020000Alcoholic Beverages,Index2,94.0690607866,05/10/15
+70,70,020000Alcoholic Beverages,Index2,93.5205679725,12/10/15
+71,71,020000Alcoholic Beverages,Index2,93.4635694145,19/10/15
+72,72,020000Alcoholic Beverages,Index2,93.5069545656,26/10/15
+73,73,020000Alcoholic Beverages,Index2,92.886028589,09/11/15
+74,74,020000Alcoholic Beverages,Index2,92.669549595,16/11/15
+75,75,020000Alcoholic Beverages,Index2,91.7362627471,23/11/15
+76,76,020000Alcoholic Beverages,Index2,91.1992379531,30/11/15
+77,77,020000Alcoholic Beverages,Index2,91.0668384752,07/12/15
+78,78,020000Alcoholic Beverages,Index2,90.1284042639,14/12/15
+79,79,020000Alcoholic Beverages,Index2,89.6782737202,21/12/15
+80,80,020000Alcoholic Beverages,Index2,89.7301993245,28/12/15
+81,81,020000Alcoholic Beverages,Index2,90.5462165108,04/01/16
+82,82,020000Alcoholic Beverages,Index2,92.7475592126,11/01/16
+83,83,020000Alcoholic Beverages,Index2,93.3829894603,18/01/16
+84,84,020000Alcoholic Beverages,Index2,93.3664011736,25/01/16
+85,85,020000Alcoholic Beverages,Index2,93.2853111544,01/02/16
+86,86,020000Alcoholic Beverages,Index2,93.2321563989,08/02/16
+87,87,020000Alcoholic Beverages,Index2,92.6271888595,15/02/16
+88,88,020000Alcoholic Beverages,Index2,92.5740350184,22/02/16
+89,89,020000Alcoholic Beverages,Index2,92.1694280086,29/02/16
+90,90,020000Alcoholic Beverages,Index2,91.4914121598,07/03/16
+91,91,020000Alcoholic Beverages,Index2,91.5732981373,14/03/16
+92,92,020000Alcoholic Beverages,Index2,91.4600206769,21/03/16
+93,93,020000Alcoholic Beverages,Index2,91.4672488671,28/03/16
+94,94,020000Alcoholic Beverages,Index2,91.4482681634,04/04/16
+95,95,020000Alcoholic Beverages,Index2,91.3635526478,11/04/16
+96,96,020000Alcoholic Beverages,Index2,91.3935132525,18/04/16
+97,97,020000Alcoholic Beverages,Index2,91.5513348907,25/04/16
+98,98,020000Alcoholic Beverages,Index2,91.9327634053,02/05/16
+99,99,020000Alcoholic Beverages,Index2,91.942246123,09/05/16
+100,100,020000Alcoholic Beverages,Index2,91.9028740439,16/05/16
+101,101,020000Alcoholic Beverages,Index2,89.9338877068,23/05/16
+102,102,020000Alcoholic Beverages,Index2,89.9027611272,30/05/16
+103,103,020000Alcoholic Beverages,Index2,89.819812344,06/06/16
+104,104,020000Alcoholic Beverages,Index2,89.5786637701,13/06/16
+105,105,020000Alcoholic Beverages,Index2,90.3796954397,20/06/16
+106,106,020000Alcoholic Beverages,Index2,90.858879527,27/06/16
+107,107,020000Alcoholic Beverages,Index2,91.0563444046,04/07/16
+108,108,020000Alcoholic Beverages,Index2,91.2552028005,11/07/16
+109,109,020000Alcoholic Beverages,Index2,91.1970642704,18/07/16
+110,110,020000Alcoholic Beverages,Index2,90.7012692864,25/07/16
+111,111,020000Alcoholic Beverages,Index2,90.4249937888,01/08/16
+112,112,020000Alcoholic Beverages,Index2,90.306766637,08/08/16
+113,113,020000Alcoholic Beverages,Index2,89.8394851678,31/10/16
+114,114,010000Food & Non-Alcoholic Beverages,Index2,100.0,09/06/14
+115,115,010000Food & Non-Alcoholic Beverages,Index2,102.365738425,16/06/14
+116,116,010000Food & Non-Alcoholic Beverages,Index2,101.605543939,23/06/14
+117,117,010000Food & Non-Alcoholic Beverages,Index2,101.293859165,30/06/14
+118,118,010000Food & Non-Alcoholic Beverages,Index2,101.961780649,07/07/14
+119,119,010000Food & Non-Alcoholic Beverages,Index2,101.678997897,14/07/14
+120,120,010000Food & Non-Alcoholic Beverages,Index2,101.76276304,21/07/14
+121,121,010000Food & Non-Alcoholic Beverages,Index2,101.385817591,28/07/14
+122,122,010000Food & Non-Alcoholic Beverages,Index2,101.422550435,04/08/14
+123,123,010000Food & Non-Alcoholic Beverages,Index2,101.274250643,11/08/14
+124,124,010000Food & Non-Alcoholic Beverages,Index2,101.168279797,18/08/14
+125,125,010000Food & Non-Alcoholic Beverages,Index2,101.36541141,25/08/14
+126,126,010000Food & Non-Alcoholic Beverages,Index2,100.82792489,01/09/14
+127,127,010000Food & Non-Alcoholic Beverages,Index2,100.706638831,08/09/14
+128,128,010000Food & Non-Alcoholic Beverages,Index2,100.629155887,15/09/14
+129,129,010000Food & Non-Alcoholic Beverages,Index2,101.0344822,22/09/14
+130,130,010000Food & Non-Alcoholic Beverages,Index2,101.35343995,29/09/14
+131,131,010000Food & Non-Alcoholic Beverages,Index2,101.311096908,06/10/14
+132,132,010000Food & Non-Alcoholic Beverages,Index2,100.867211108,13/10/14
+133,133,010000Food & Non-Alcoholic Beverages,Index2,100.662196712,20/10/14
+134,134,010000Food & Non-Alcoholic Beverages,Index2,100.66982029,27/10/14
+135,135,010000Food & Non-Alcoholic Beverages,Index2,100.719863284,03/11/14
+136,136,010000Food & Non-Alcoholic Beverages,Index2,100.821176695,10/11/14
+137,137,010000Food & Non-Alcoholic Beverages,Index2,101.079093565,17/11/14
+138,138,010000Food & Non-Alcoholic Beverages,Index2,101.567382987,24/11/14
+139,139,010000Food & Non-Alcoholic Beverages,Index2,101.783841719,01/12/14
+140,140,010000Food & Non-Alcoholic Beverages,Index2,101.570160574,08/12/14
+141,141,010000Food & Non-Alcoholic Beverages,Index2,101.226879716,15/12/14
+142,142,010000Food & Non-Alcoholic Beverages,Index2,101.81469266,22/12/14
+143,143,010000Food & Non-Alcoholic Beverages,Index2,102.110776557,29/12/14
+144,144,010000Food & Non-Alcoholic Beverages,Index2,101.672798021,05/01/15
+145,145,010000Food & Non-Alcoholic Beverages,Index2,100.75245888,12/01/15
+146,146,010000Food & Non-Alcoholic Beverages,Index2,99.8412612445,19/01/15
+147,147,010000Food & Non-Alcoholic Beverages,Index2,99.2750195776,26/01/15
+148,148,010000Food & Non-Alcoholic Beverages,Index2,100.05076538,02/02/15
+149,149,010000Food & Non-Alcoholic Beverages,Index2,100.073079563,09/02/15
+150,150,010000Food & Non-Alcoholic Beverages,Index2,99.5359350891,16/02/15
+151,151,010000Food & Non-Alcoholic Beverages,Index2,99.524853223,23/02/15
+152,152,010000Food & Non-Alcoholic Beverages,Index2,99.429745286,02/03/15
+153,153,010000Food & Non-Alcoholic Beverages,Index2,98.6655621276,09/03/15
+154,154,010000Food & Non-Alcoholic Beverages,Index2,98.9109009746,16/03/15
+155,155,010000Food & Non-Alcoholic Beverages,Index2,99.1414039058,23/03/15
+156,156,010000Food & Non-Alcoholic Beverages,Index2,99.2746767043,30/03/15
+157,157,010000Food & Non-Alcoholic Beverages,Index2,99.3829636079,06/04/15
+158,158,010000Food & Non-Alcoholic Beverages,Index2,99.2250688254,13/04/15
+159,159,010000Food & Non-Alcoholic Beverages,Index2,99.270456038,20/04/15
+160,160,010000Food & Non-Alcoholic Beverages,Index2,99.5442636149,27/04/15
+161,161,010000Food & Non-Alcoholic Beverages,Index2,99.3924394696,04/05/15
+162,162,010000Food & Non-Alcoholic Beverages,Index2,99.3735269623,11/05/15
+163,163,010000Food & Non-Alcoholic Beverages,Index2,99.2497111932,18/05/15
+164,164,010000Food & Non-Alcoholic Beverages,Index2,99.1949056104,25/05/15
+165,165,010000Food & Non-Alcoholic Beverages,Index2,99.3959628752,01/06/15
+166,166,010000Food & Non-Alcoholic Beverages,Index2,99.3088965261,08/06/15
+167,167,010000Food & Non-Alcoholic Beverages,Index2,99.0710517066,15/06/15
+168,168,010000Food & Non-Alcoholic Beverages,Index2,99.2123110909,22/06/15
+169,169,010000Food & Non-Alcoholic Beverages,Index2,99.0214383256,29/06/15
+170,170,010000Food & Non-Alcoholic Beverages,Index2,99.277587197,06/07/15
+171,171,010000Food & Non-Alcoholic Beverages,Index2,98.8360393748,13/07/15
+172,172,010000Food & Non-Alcoholic Beverages,Index2,98.6161587203,20/07/15
+173,173,010000Food & Non-Alcoholic Beverages,Index2,98.4805323192,27/07/15
+174,174,010000Food & Non-Alcoholic Beverages,Index2,98.48379274,03/08/15
+175,175,010000Food & Non-Alcoholic Beverages,Index2,98.7662187638,10/08/15
+176,176,010000Food & Non-Alcoholic Beverages,Index2,98.3272315877,17/08/15
+177,177,010000Food & Non-Alcoholic Beverages,Index2,98.1998550897,24/08/15
+178,178,010000Food & Non-Alcoholic Beverages,Index2,98.0421665204,31/08/15
+179,179,010000Food & Non-Alcoholic Beverages,Index2,97.7105975917,07/09/15
+180,180,010000Food & Non-Alcoholic Beverages,Index2,97.2186074569,14/09/15
+181,181,010000Food & Non-Alcoholic Beverages,Index2,96.6832122757,21/09/15
+182,182,010000Food & Non-Alcoholic Beverages,Index2,96.779427526,28/09/15
+183,183,010000Food & Non-Alcoholic Beverages,Index2,96.8715993544,05/10/15
+184,184,010000Food & Non-Alcoholic Beverages,Index2,96.532662293,12/10/15
+185,185,010000Food & Non-Alcoholic Beverages,Index2,96.2723668491,19/10/15
+186,186,010000Food & Non-Alcoholic Beverages,Index2,95.6175871911,26/10/15
+187,187,010000Food & Non-Alcoholic Beverages,Index2,96.7008016722,09/11/15
+188,188,010000Food & Non-Alcoholic Beverages,Index2,97.4982696098,16/11/15
+189,189,010000Food & Non-Alcoholic Beverages,Index2,97.5476094797,23/11/15
+190,190,010000Food & Non-Alcoholic Beverages,Index2,97.9300200597,30/11/15
+191,191,010000Food & Non-Alcoholic Beverages,Index2,97.9369465561,07/12/15
+192,192,010000Food & Non-Alcoholic Beverages,Index2,98.3036520751,14/12/15
+193,193,010000Food & Non-Alcoholic Beverages,Index2,98.1354208294,21/12/15
+194,194,010000Food & Non-Alcoholic Beverages,Index2,98.121165467,28/12/15
+195,195,010000Food & Non-Alcoholic Beverages,Index2,97.488774375,04/01/16
+196,196,010000Food & Non-Alcoholic Beverages,Index2,96.5452716604,11/01/16
+197,197,010000Food & Non-Alcoholic Beverages,Index2,95.9103576897,18/01/16
+198,198,010000Food & Non-Alcoholic Beverages,Index2,96.2857257605,25/01/16
+199,199,010000Food & Non-Alcoholic Beverages,Index2,97.0180623273,01/02/16
+200,200,010000Food & Non-Alcoholic Beverages,Index2,97.2722667033,08/02/16
+201,201,010000Food & Non-Alcoholic Beverages,Index2,97.2852080485,15/02/16
+202,202,010000Food & Non-Alcoholic Beverages,Index2,96.5930053053,22/02/16
+203,203,010000Food & Non-Alcoholic Beverages,Index2,96.9180432791,29/02/16
+204,204,010000Food & Non-Alcoholic Beverages,Index2,96.566023219,07/03/16
+205,205,010000Food & Non-Alcoholic Beverages,Index2,95.6638859069,14/03/16
+206,206,010000Food & Non-Alcoholic Beverages,Index2,94.838682919,21/03/16
+207,207,010000Food & Non-Alcoholic Beverages,Index2,91.7578399053,28/03/16
+208,208,010000Food & Non-Alcoholic Beverages,Index2,91.3509405673,04/04/16
+209,209,010000Food & Non-Alcoholic Beverages,Index2,91.3973915315,11/04/16
+210,210,010000Food & Non-Alcoholic Beverages,Index2,91.1779876915,18/04/16
+211,211,010000Food & Non-Alcoholic Beverages,Index2,89.9991862,25/04/16
+212,212,010000Food & Non-Alcoholic Beverages,Index2,90.1265122478,02/05/16
+213,213,010000Food & Non-Alcoholic Beverages,Index2,91.4800805355,09/05/16
+214,214,010000Food & Non-Alcoholic Beverages,Index2,92.5993424133,16/05/16
+215,215,010000Food & Non-Alcoholic Beverages,Index2,92.5719486481,23/05/16
+216,216,010000Food & Non-Alcoholic Beverages,Index2,92.7073509358,30/05/16
+217,217,010000Food & Non-Alcoholic Beverages,Index2,92.5473519661,06/06/16
+218,218,010000Food & Non-Alcoholic Beverages,Index2,92.6388696324,13/06/16
+219,219,010000Food & Non-Alcoholic Beverages,Index2,92.2661238289,20/06/16
+220,220,010000Food & Non-Alcoholic Beverages,Index2,92.4983280321,27/06/16
+221,221,010000Food & Non-Alcoholic Beverages,Index2,92.4396264141,04/07/16
+222,222,010000Food & Non-Alcoholic Beverages,Index2,92.2674913855,11/07/16
+223,223,010000Food & Non-Alcoholic Beverages,Index2,92.0395240707,18/07/16
+224,224,010000Food & Non-Alcoholic Beverages,Index2,92.4638538037,25/07/16
+225,225,010000Food & Non-Alcoholic Beverages,Index2,92.3951843264,01/08/16
+226,226,010000Food & Non-Alcoholic Beverages,Index2,92.0817506115,08/08/16
+227,227,010000Food & Non-Alcoholic Beverages,Index2,46.8291999082,31/10/16
+0,0,020000Alcoholic Beverages,Index3,100.0,09/06/14
+1,1,020000Alcoholic Beverages,Index3,99.7911442837,16/06/14
+2,2,020000Alcoholic Beverages,Index3,99.7252854264,23/06/14
+3,3,020000Alcoholic Beverages,Index3,99.6885455813,30/06/14
+4,4,020000Alcoholic Beverages,Index3,99.7342093459,07/07/14
+5,5,020000Alcoholic Beverages,Index3,99.969802793,14/07/14
+6,6,020000Alcoholic Beverages,Index3,101.381421962,21/07/14
+7,7,020000Alcoholic Beverages,Index3,101.741657554,28/07/14
+8,8,020000Alcoholic Beverages,Index3,100.919373619,04/08/14
+9,9,020000Alcoholic Beverages,Index3,100.896454445,11/08/14
+10,10,020000Alcoholic Beverages,Index3,100.233349508,18/08/14
+11,11,020000Alcoholic Beverages,Index3,100.221220651,25/08/14
+12,12,020000Alcoholic Beverages,Index3,100.227249301,01/09/14
+13,13,020000Alcoholic Beverages,Index3,99.3080482109,08/09/14
+14,14,020000Alcoholic Beverages,Index3,99.0958748074,15/09/14
+15,15,020000Alcoholic Beverages,Index3,100.095445869,22/09/14
+16,16,020000Alcoholic Beverages,Index3,100.019779743,29/09/14
+17,17,020000Alcoholic Beverages,Index3,99.9202278576,06/10/14
+18,18,020000Alcoholic Beverages,Index3,100.148747361,13/10/14
+19,19,020000Alcoholic Beverages,Index3,99.696037981,20/10/14
+20,20,020000Alcoholic Beverages,Index3,99.038742134,27/10/14
+21,21,020000Alcoholic Beverages,Index3,98.5018059924,03/11/14
+22,22,020000Alcoholic Beverages,Index3,98.1593397695,10/11/14
+23,23,020000Alcoholic Beverages,Index3,98.1340529384,17/11/14
+24,24,020000Alcoholic Beverages,Index3,98.5349527236,24/11/14
+25,25,020000Alcoholic Beverages,Index3,97.8052911822,01/12/14
+26,26,020000Alcoholic Beverages,Index3,96.8311451769,08/12/14
+27,27,020000Alcoholic Beverages,Index3,96.6241424964,15/12/14
+28,28,020000Alcoholic Beverages,Index3,96.2617073922,22/12/14
+29,29,020000Alcoholic Beverages,Index3,97.0991176059,29/12/14
+30,30,020000Alcoholic Beverages,Index3,98.1721093227,05/01/15
+31,31,020000Alcoholic Beverages,Index3,98.382424522,12/01/15
+32,32,020000Alcoholic Beverages,Index3,98.4036677689,19/01/15
+33,33,020000Alcoholic Beverages,Index3,98.8130343186,26/01/15
+34,34,020000Alcoholic Beverages,Index3,98.9225960579,02/02/15
+35,35,020000Alcoholic Beverages,Index3,98.8442668898,09/02/15
+36,36,020000Alcoholic Beverages,Index3,98.63718856,16/02/15
+37,37,020000Alcoholic Beverages,Index3,98.6692319111,23/02/15
+38,38,020000Alcoholic Beverages,Index3,98.6946711286,02/03/15
+39,39,020000Alcoholic Beverages,Index3,98.4501832332,09/03/15
+40,40,020000Alcoholic Beverages,Index3,98.0247054798,16/03/15
+41,41,020000Alcoholic Beverages,Index3,97.9474361137,23/03/15
+42,42,020000Alcoholic Beverages,Index3,96.1820228393,30/03/15
+43,43,020000Alcoholic Beverages,Index3,95.8483071837,06/04/15
+44,44,020000Alcoholic Beverages,Index3,96.350361956,13/04/15
+45,45,020000Alcoholic Beverages,Index3,97.6723620535,20/04/15
+46,46,020000Alcoholic Beverages,Index3,98.6834317625,27/04/15
+47,47,020000Alcoholic Beverages,Index3,98.5322178078,04/05/15
+48,48,020000Alcoholic Beverages,Index3,98.2864226139,11/05/15
+49,49,020000Alcoholic Beverages,Index3,97.8208168708,18/05/15
+50,50,020000Alcoholic Beverages,Index3,97.2493854585,25/05/15
+51,51,020000Alcoholic Beverages,Index3,97.2943665959,01/06/15
+52,52,020000Alcoholic Beverages,Index3,97.01149953,08/06/15
+53,53,020000Alcoholic Beverages,Index3,97.1774438214,15/06/15
+54,54,020000Alcoholic Beverages,Index3,97.2517703723,22/06/15
+55,55,020000Alcoholic Beverages,Index3,97.3061206003,29/06/15
+56,56,020000Alcoholic Beverages,Index3,97.602615371,06/07/15
+57,57,020000Alcoholic Beverages,Index3,97.762075726,13/07/15
+58,58,020000Alcoholic Beverages,Index3,97.4914948595,20/07/15
+59,59,020000Alcoholic Beverages,Index3,97.3824425183,27/07/15
+60,60,020000Alcoholic Beverages,Index3,97.0283194633,03/08/15
+61,61,020000Alcoholic Beverages,Index3,96.6574319195,10/08/15
+62,62,020000Alcoholic Beverages,Index3,96.9213027575,17/08/15
+63,63,020000Alcoholic Beverages,Index3,97.0236728653,24/08/15
+64,64,020000Alcoholic Beverages,Index3,96.5999908815,31/08/15
+65,65,020000Alcoholic Beverages,Index3,95.9558217734,07/09/15
+66,66,020000Alcoholic Beverages,Index3,95.6366620067,14/09/15
+67,67,020000Alcoholic Beverages,Index3,94.9178827109,21/09/15
+68,68,020000Alcoholic Beverages,Index3,94.6444609607,28/09/15
+69,69,020000Alcoholic Beverages,Index3,94.922862743,05/10/15
+70,70,020000Alcoholic Beverages,Index3,95.3829327569,12/10/15
+71,71,020000Alcoholic Beverages,Index3,95.5982821826,19/10/15
+72,72,020000Alcoholic Beverages,Index3,94.8426819526,02/11/15
+73,73,020000Alcoholic Beverages,Index3,94.4971271503,09/11/15
+74,74,020000Alcoholic Beverages,Index3,93.7155846326,16/11/15
+75,75,020000Alcoholic Beverages,Index3,92.3563815735,23/11/15
+76,76,020000Alcoholic Beverages,Index3,92.2051553592,30/11/15
+77,77,020000Alcoholic Beverages,Index3,90.9731692519,07/12/15
+78,78,020000Alcoholic Beverages,Index3,90.458109982,14/12/15
+79,79,020000Alcoholic Beverages,Index3,89.9759939492,21/12/15
+80,80,020000Alcoholic Beverages,Index3,90.6058651038,28/12/15
+81,81,020000Alcoholic Beverages,Index3,91.9811009295,04/01/16
+82,82,020000Alcoholic Beverages,Index3,93.0687864421,11/01/16
+83,83,020000Alcoholic Beverages,Index3,92.6872510989,18/01/16
+84,84,020000Alcoholic Beverages,Index3,92.4746586881,25/01/16
+85,85,020000Alcoholic Beverages,Index3,92.3663896009,01/02/16
+86,86,020000Alcoholic Beverages,Index3,91.7067198489,08/02/16
+87,87,020000Alcoholic Beverages,Index3,91.6471579158,15/02/16
+88,88,020000Alcoholic Beverages,Index3,91.218774244,22/02/16
+89,89,020000Alcoholic Beverages,Index3,91.0441161938,29/02/16
+90,90,020000Alcoholic Beverages,Index3,90.3998990354,07/03/16
+91,91,020000Alcoholic Beverages,Index3,90.4009980161,14/03/16
+92,92,020000Alcoholic Beverages,Index3,90.3744445262,21/03/16
+93,93,020000Alcoholic Beverages,Index3,90.2664998473,28/03/16
+94,94,020000Alcoholic Beverages,Index3,90.2242349425,04/04/16
+95,95,020000Alcoholic Beverages,Index3,89.8965507976,11/04/16
+96,96,020000Alcoholic Beverages,Index3,89.8491377799,18/04/16
+97,97,020000Alcoholic Beverages,Index3,90.1397271358,25/04/16
+98,98,020000Alcoholic Beverages,Index3,90.4794344923,02/05/16
+99,99,020000Alcoholic Beverages,Index3,90.8289471916,09/05/16
+100,100,020000Alcoholic Beverages,Index3,90.747661025,16/05/16
+101,101,020000Alcoholic Beverages,Index3,89.485901189,23/05/16
+102,102,020000Alcoholic Beverages,Index3,89.0157302112,30/05/16
+103,103,020000Alcoholic Beverages,Index3,89.0133923431,06/06/16
+104,104,020000Alcoholic Beverages,Index3,88.8209810562,13/06/16
+105,105,020000Alcoholic Beverages,Index3,89.7181858519,20/06/16
+106,106,020000Alcoholic Beverages,Index3,90.031629208,27/06/16
+107,107,020000Alcoholic Beverages,Index3,90.0431191015,04/07/16
+108,108,020000Alcoholic Beverages,Index3,90.3065196819,11/07/16
+109,109,020000Alcoholic Beverages,Index3,90.3978216509,18/07/16
+110,110,020000Alcoholic Beverages,Index3,90.2015525151,25/07/16
+111,111,020000Alcoholic Beverages,Index3,90.1568550125,01/08/16
+112,112,020000Alcoholic Beverages,Index3,89.9362133007,08/08/16
+113,113,020000Alcoholic Beverages,Index3,90.8474195933,31/10/16
+114,114,010000Food & Non-Alcoholic Beverages,Index3,99.99999999,09/06/14
+115,115,010000Food & Non-Alcoholic Beverages,Index3,99.4852954922,16/06/14
+116,116,010000Food & Non-Alcoholic Beverages,Index3,99.017584342,23/06/14
+117,117,010000Food & Non-Alcoholic Beverages,Index3,99.6225705629,30/06/14
+118,118,010000Food & Non-Alcoholic Beverages,Index3,99.5160604954,07/07/14
+119,119,010000Food & Non-Alcoholic Beverages,Index3,99.5413306567,14/07/14
+120,120,010000Food & Non-Alcoholic Beverages,Index3,99.4554040366,21/07/14
+121,121,010000Food & Non-Alcoholic Beverages,Index3,99.4950848086,28/07/14
+122,122,010000Food & Non-Alcoholic Beverages,Index3,99.2798894569,04/08/14
+123,123,010000Food & Non-Alcoholic Beverages,Index3,99.0870936388,11/08/14
+124,124,010000Food & Non-Alcoholic Beverages,Index3,99.3143463067,18/08/14
+125,125,010000Food & Non-Alcoholic Beverages,Index3,98.5571322195,25/08/14
+126,126,010000Food & Non-Alcoholic Beverages,Index3,98.3917134138,01/09/14
+127,127,010000Food & Non-Alcoholic Beverages,Index3,98.3284759439,08/09/14
+128,128,010000Food & Non-Alcoholic Beverages,Index3,98.53349031,15/09/14
+129,129,010000Food & Non-Alcoholic Beverages,Index3,98.9035635934,22/09/14
+130,130,010000Food & Non-Alcoholic Beverages,Index3,99.0845135581,29/09/14
+131,131,010000Food & Non-Alcoholic Beverages,Index3,98.7981413316,06/10/14
+132,132,010000Food & Non-Alcoholic Beverages,Index3,99.0939257352,13/10/14
+133,133,010000Food & Non-Alcoholic Beverages,Index3,100.018875869,20/10/14
+134,134,010000Food & Non-Alcoholic Beverages,Index3,100.259130714,27/10/14
+135,135,010000Food & Non-Alcoholic Beverages,Index3,100.535876729,03/11/14
+136,136,010000Food & Non-Alcoholic Beverages,Index3,100.841822891,10/11/14
+137,137,010000Food & Non-Alcoholic Beverages,Index3,100.809072429,17/11/14
+138,138,010000Food & Non-Alcoholic Beverages,Index3,100.671618136,24/11/14
+139,139,010000Food & Non-Alcoholic Beverages,Index3,100.345981609,01/12/14
+140,140,010000Food & Non-Alcoholic Beverages,Index3,99.6222222025,08/12/14
+141,141,010000Food & Non-Alcoholic Beverages,Index3,99.3225155149,15/12/14
+142,142,010000Food & Non-Alcoholic Beverages,Index3,99.4757395427,22/12/14
+143,143,010000Food & Non-Alcoholic Beverages,Index3,99.476520801,29/12/14
+144,144,010000Food & Non-Alcoholic Beverages,Index3,98.3956252893,05/01/15
+145,145,010000Food & Non-Alcoholic Beverages,Index3,97.7342922805,12/01/15
+146,146,010000Food & Non-Alcoholic Beverages,Index3,97.2321985309,19/01/15
+147,147,010000Food & Non-Alcoholic Beverages,Index3,97.699691904,26/01/15
+148,148,010000Food & Non-Alcoholic Beverages,Index3,98.3286677198,02/02/15
+149,149,010000Food & Non-Alcoholic Beverages,Index3,98.0789409801,09/02/15
+150,150,010000Food & Non-Alcoholic Beverages,Index3,98.1668734818,16/02/15
+151,151,010000Food & Non-Alcoholic Beverages,Index3,98.3652241865,23/02/15
+152,152,010000Food & Non-Alcoholic Beverages,Index3,97.6949205257,02/03/15
+153,153,010000Food & Non-Alcoholic Beverages,Index3,97.3502110263,09/03/15
+154,154,010000Food & Non-Alcoholic Beverages,Index3,97.3533199045,16/03/15
+155,155,010000Food & Non-Alcoholic Beverages,Index3,97.4651124131,23/03/15
+156,156,010000Food & Non-Alcoholic Beverages,Index3,97.6411703093,30/03/15
+157,157,010000Food & Non-Alcoholic Beverages,Index3,97.6477991377,06/04/15
+158,158,010000Food & Non-Alcoholic Beverages,Index3,97.92457288,13/04/15
+159,159,010000Food & Non-Alcoholic Beverages,Index3,98.0154339618,20/04/15
+160,160,010000Food & Non-Alcoholic Beverages,Index3,97.9574857777,27/04/15
+161,161,010000Food & Non-Alcoholic Beverages,Index3,97.9773547364,04/05/15
+162,162,010000Food & Non-Alcoholic Beverages,Index3,98.0765381479,11/05/15
+163,163,010000Food & Non-Alcoholic Beverages,Index3,97.7609495788,18/05/15
+164,164,010000Food & Non-Alcoholic Beverages,Index3,96.8001185154,25/05/15
+165,165,010000Food & Non-Alcoholic Beverages,Index3,97.6313938794,01/06/15
+166,166,010000Food & Non-Alcoholic Beverages,Index3,97.0229680362,08/06/15
+167,167,010000Food & Non-Alcoholic Beverages,Index3,97.1312741705,15/06/15
+168,168,010000Food & Non-Alcoholic Beverages,Index3,99.3485310727,22/06/15
+169,169,010000Food & Non-Alcoholic Beverages,Index3,99.6803480202,29/06/15
+170,170,010000Food & Non-Alcoholic Beverages,Index3,97.1128928938,06/07/15
+171,171,010000Food & Non-Alcoholic Beverages,Index3,96.8716936744,13/07/15
+172,172,010000Food & Non-Alcoholic Beverages,Index3,96.6414378896,20/07/15
+173,173,010000Food & Non-Alcoholic Beverages,Index3,96.1401868239,27/07/15
+174,174,010000Food & Non-Alcoholic Beverages,Index3,96.5545963874,03/08/15
+175,175,010000Food & Non-Alcoholic Beverages,Index3,96.286045202,10/08/15
+176,176,010000Food & Non-Alcoholic Beverages,Index3,96.4754464753,17/08/15
+177,177,010000Food & Non-Alcoholic Beverages,Index3,96.4062472294,24/08/15
+178,178,010000Food & Non-Alcoholic Beverages,Index3,96.1660218981,31/08/15
+179,179,010000Food & Non-Alcoholic Beverages,Index3,95.4621697295,07/09/15
+180,180,010000Food & Non-Alcoholic Beverages,Index3,95.0043820581,14/09/15
+181,181,010000Food & Non-Alcoholic Beverages,Index3,95.5734282186,21/09/15
+182,182,010000Food & Non-Alcoholic Beverages,Index3,96.1723758763,28/09/15
+183,183,010000Food & Non-Alcoholic Beverages,Index3,96.7351673788,05/10/15
+184,184,010000Food & Non-Alcoholic Beverages,Index3,96.1401796252,12/10/15
+185,185,010000Food & Non-Alcoholic Beverages,Index3,96.0911756922,19/10/15
+186,186,010000Food & Non-Alcoholic Beverages,Index3,96.8667758776,02/11/15
+187,187,010000Food & Non-Alcoholic Beverages,Index3,96.892947113,09/11/15
+188,188,010000Food & Non-Alcoholic Beverages,Index3,96.5313168876,16/11/15
+189,189,010000Food & Non-Alcoholic Beverages,Index3,95.8158883122,23/11/15
+190,190,010000Food & Non-Alcoholic Beverages,Index3,95.9125845328,30/11/15
+191,191,010000Food & Non-Alcoholic Beverages,Index3,96.0912323719,07/12/15
+192,192,010000Food & Non-Alcoholic Beverages,Index3,95.8092246094,14/12/15
+193,193,010000Food & Non-Alcoholic Beverages,Index3,96.2442417017,21/12/15
+194,194,010000Food & Non-Alcoholic Beverages,Index3,95.3961783268,28/12/15
+195,195,010000Food & Non-Alcoholic Beverages,Index3,93.5511371401,04/01/16
+196,196,010000Food & Non-Alcoholic Beverages,Index3,93.1180014511,11/01/16
+197,197,010000Food & Non-Alcoholic Beverages,Index3,93.4525762356,18/01/16
+198,198,010000Food & Non-Alcoholic Beverages,Index3,93.919415058,25/01/16
+199,199,010000Food & Non-Alcoholic Beverages,Index3,94.6228817816,01/02/16
+200,200,010000Food & Non-Alcoholic Beverages,Index3,94.7640659207,08/02/16
+201,201,010000Food & Non-Alcoholic Beverages,Index3,94.3619296274,15/02/16
+202,202,010000Food & Non-Alcoholic Beverages,Index3,94.4850557118,22/02/16
+203,203,010000Food & Non-Alcoholic Beverages,Index3,93.7541149701,29/02/16
+204,204,010000Food & Non-Alcoholic Beverages,Index3,92.974425321,07/03/16
+205,205,010000Food & Non-Alcoholic Beverages,Index3,93.1980086936,14/03/16
+206,206,010000Food & Non-Alcoholic Beverages,Index3,93.3948803686,21/03/16
+207,207,010000Food & Non-Alcoholic Beverages,Index3,92.4054283937,28/03/16
+208,208,010000Food & Non-Alcoholic Beverages,Index3,90.9391191478,04/04/16
+209,209,010000Food & Non-Alcoholic Beverages,Index3,90.8797101318,11/04/16
+210,210,010000Food & Non-Alcoholic Beverages,Index3,91.0505188886,18/04/16
+211,211,010000Food & Non-Alcoholic Beverages,Index3,89.9325896819,25/04/16
+212,212,010000Food & Non-Alcoholic Beverages,Index3,90.4195035339,02/05/16
+213,213,010000Food & Non-Alcoholic Beverages,Index3,91.7397408616,09/05/16
+214,214,010000Food & Non-Alcoholic Beverages,Index3,91.5142498018,16/05/16
+215,215,010000Food & Non-Alcoholic Beverages,Index3,92.470084545,23/05/16
+216,216,010000Food & Non-Alcoholic Beverages,Index3,92.3530819642,30/05/16
+217,217,010000Food & Non-Alcoholic Beverages,Index3,92.7913272971,06/06/16
+218,218,010000Food & Non-Alcoholic Beverages,Index3,92.866145327,13/06/16
+219,219,010000Food & Non-Alcoholic Beverages,Index3,92.4790931881,20/06/16
+220,220,010000Food & Non-Alcoholic Beverages,Index3,92.3161570851,27/06/16
+221,221,010000Food & Non-Alcoholic Beverages,Index3,92.1733107127,04/07/16
+222,222,010000Food & Non-Alcoholic Beverages,Index3,92.6806467441,11/07/16
+223,223,010000Food & Non-Alcoholic Beverages,Index3,92.2861516069,18/07/16
+224,224,010000Food & Non-Alcoholic Beverages,Index3,92.3553671715,25/07/16
+225,225,010000Food & Non-Alcoholic Beverages,Index3,91.9006261625,01/08/16
+226,226,010000Food & Non-Alcoholic Beverages,Index3,91.9777362189,08/08/16
+227,227,010000Food & Non-Alcoholic Beverages,Index3,91.9262469087,31/10/16

@@ -1,0 +1,59 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,level_3,period,weighted_index
+0,0,0,0,0,alcoholic_drinks ,201406.0,100.0
+1,1,1,1,1,alcoholic_drinks ,201407.0,100.87992030675551
+2,2,2,2,2,alcoholic_drinks ,201408.0,101.09270103666364
+3,3,3,3,3,alcoholic_drinks ,201409.0,100.06116258238842
+4,4,4,4,4,alcoholic_drinks ,201410.0,99.86216436164639
+5,5,5,5,5,alcoholic_drinks ,201411.0,99.40385030624122
+6,6,6,6,6,alcoholic_drinks ,201412.0,97.12288807729638
+7,7,7,7,7,alcoholic_drinks ,201501.0,98.96071845385084
+8,8,8,8,1,alcoholic_drinks ,201502.0,99.15218601391697
+9,9,9,9,2,alcoholic_drinks ,201503.0,98.85819918499881
+10,10,10,10,3,alcoholic_drinks ,201504.0,97.79412561036042
+11,11,11,11,4,alcoholic_drinks ,201505.0,99.26803297304039
+12,12,12,12,5,alcoholic_drinks ,201506.0,97.47408918638872
+13,13,13,13,6,alcoholic_drinks ,201507.0,98.25812955166909
+14,14,14,14,7,alcoholic_drinks ,201508.0,98.21973964794176
+15,15,15,15,8,alcoholic_drinks ,201509.0,96.98337117259808
+16,16,16,16,9,alcoholic_drinks ,201510.0,97.42745779779592
+17,17,17,17,10,alcoholic_drinks ,201511.0,97.48116198491681
+18,18,18,18,11,alcoholic_drinks ,201512.0,97.54298643250728
+19,19,19,19,12,alcoholic_drinks ,201601.0,97.99807068555857
+20,20,1,,,alcoholic_drinks ,201602.0,96.97565627260119
+21,21,2,,,alcoholic_drinks ,201603.0,96.3636920989091
+22,22,3,,,alcoholic_drinks ,201604.0,96.5841548001839
+23,23,4,,,alcoholic_drinks ,201605.0,97.69499497420651
+24,24,5,,,alcoholic_drinks ,201606.0,96.57733400454255
+25,25,6,,,alcoholic_drinks ,201607.0,97.89236417321148
+26,26,7,,,alcoholic_drinks ,201608.0,97.9501865798322
+27,27,8,,,alcoholic_drinks ,201610.0,96.65300891966774
+28,28,9,,,alcoholic_drinks ,201611.0,96.58898843624547
+29,0,20,0,8,food_and_non_alcoholic_beverages,201406.0,99.99999999
+30,1,21,1,9,food_and_non_alcoholic_beverages,201407.0,100.74674597542153
+31,2,22,2,10,food_and_non_alcoholic_beverages,201408.0,100.04305367648918
+32,3,23,3,11,food_and_non_alcoholic_beverages,201409.0,99.83225129644086
+33,4,24,4,12,food_and_non_alcoholic_beverages,201410.0,99.38821901053635
+34,5,25,5,13,food_and_non_alcoholic_beverages,201411.0,101.97010716307256
+35,6,26,6,14,food_and_non_alcoholic_beverages,201412.0,101.33376303825912
+36,7,27,7,15,food_and_non_alcoholic_beverages,201501.0,97.47604626311477
+37,8,28,8,14,food_and_non_alcoholic_beverages,201502.0,97.24386794815098
+38,9,29,9,15,food_and_non_alcoholic_beverages,201503.0,97.67343929743893
+39,10,30,10,16,food_and_non_alcoholic_beverages,201504.0,98.11614605075887
+40,11,31,11,17,food_and_non_alcoholic_beverages,201505.0,97.8400317693331
+41,12,32,12,18,food_and_non_alcoholic_beverages,201506.0,97.36030148561869
+42,13,33,13,19,food_and_non_alcoholic_beverages,201507.0,96.50479125174901
+43,14,34,14,20,food_and_non_alcoholic_beverages,201508.0,96.01368913605573
+44,15,35,15,21,food_and_non_alcoholic_beverages,201509.0,94.55996093062333
+45,16,36,16,22,food_and_non_alcoholic_beverages,201510.0,95.43359030042723
+46,17,37,17,23,food_and_non_alcoholic_beverages,201511.0,96.11522980254895
+47,18,38,18,24,food_and_non_alcoholic_beverages,201512.0,97.7332894791474
+48,19,39,19,25,food_and_non_alcoholic_beverages,201601.0,94.21817543912601
+49,20,11,,,food_and_non_alcoholic_beverages,201602.0,94.86123654158109
+50,21,12,,,food_and_non_alcoholic_beverages,201603.0,94.77502634107843
+51,22,13,,,food_and_non_alcoholic_beverages,201604.0,93.43204060320664
+52,23,14,,,food_and_non_alcoholic_beverages,201605.0,93.16559344592375
+53,24,15,,,food_and_non_alcoholic_beverages,201606.0,92.14993941070378
+54,25,16,,,food_and_non_alcoholic_beverages,201607.0,91.93772565711087
+55,26,17,,,food_and_non_alcoholic_beverages,201608.0,91.769373753984
+56,27,18,,,food_and_non_alcoholic_beverages,201610.0,92.62740051132249
+57,28,19,,,food_and_non_alcoholic_beverages,201611.0,92.82242439481797
